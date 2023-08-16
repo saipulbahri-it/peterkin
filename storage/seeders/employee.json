@@ -1,0 +1,563 @@
+{
+  "pegawai": [
+    {
+      "no": "1",
+      "nama": "Zalsufran, ST, M.Si",
+      "nip": "19730609 200904 1 001",
+      "gol": "IV/b",
+      "jabatan": "Kepala Dinas",
+      "bagian": "Dinas Peternakan"
+    },
+    {
+      "no": "2",
+      "nama": "drh. T. Munazar",
+      "nip": "19680828 200701 1 008",
+      "gol": "IV/a",
+      "jabatan": "Sekretaris",
+      "bagian": "Sekretaris"
+    },
+    {
+      "no": "3",
+      "nama": "Febi Laurina, S.Pt",
+      "nip": "19760224 200701 2 001",
+      "gol": "III/d",
+      "jabatan": "Ka. Subbag Hukum, Kepegawaian dan Umum",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "4",
+      "nama": "Rahmiatun, SP",
+      "nip": "19681026 199102 2 001",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "5",
+      "nama": "Hermaliza, SE",
+      "nip": "19851130 200604 2 001",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "6",
+      "nama": "Nasruddin, SE",
+      "nip": "19690114 200604 1 001",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "7",
+      "nama": "Nidya Afrila, SP",
+      "nip": "19800418 200701 2 001",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "8",
+      "nama": "Dwi Ayu Ning Tyas, SH",
+      "nip": "19840529 200901 2 007",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "9",
+      "nama": "Samsuri, S.ST",
+      "nip": "19810211 200801 1 001",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "10",
+      "nama": "Yusmainur. A.Md",
+      "nip": "19800512 200604 2 005",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "11",
+      "nama": "Adlina, S.Pt",
+      "nip": "19700403 200604 2 001",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "12",
+      "nama": "Jamaluddi",
+      "nip": "19660312 199102 1 003",
+      "gol": "III/b",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "13",
+      "nama": "Hasdiana",
+      "nip": "19651230 198903 2 011",
+      "gol": "III/b",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "14",
+      "nama": "Sarmadi",
+      "nip": "19651118 200701 1 002",
+      "gol": "II/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "15",
+      "nama": "Liza Nurhady, SE",
+      "nip": "36 1 2011 09121",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "16",
+      "nama": "Mailisa Armayanti, A.Md",
+      "nip": "36 1 2017 09137",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "17",
+      "nama": "Yauvani, A.Md",
+      "nip": "36 1 2019 09138",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "18",
+      "nama": "Rika Gusti Utami, SH",
+      "nip": "36 1 2017 09125",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "19",
+      "nama": "Hazmil Fanzuri Zora P, S.Pd",
+      "nip": "36 1 2014 09130",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "20",
+      "nama": "Nanda Safiatuddin",
+      "nip": "36 1 2017 09144",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "21",
+      "nama": "Sri Wahyuni",
+      "nip": "36 1 2013 09143",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "22",
+      "nama": "Afrizal",
+      "nip": "36 3 2014 09191",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "23",
+      "nama": "Khairuddin",
+      "nip": "36 3 2014 09193",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "24",
+      "nama": "Syamsuddin",
+      "nip": "36 3 2011 09194",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "25",
+      "nama": "Hamdi Halim, S.Pd",
+      "nip": "36 1 2017 09134",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "26",
+      "nama": "Dia Poernama Sari",
+      "nip": "36 1 2019 09142",
+      "jabatan": "Tenaga Kontrak Satpam",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "27",
+      "nama": "Alizar",
+      "nip": "36 3 2008 019195",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak Satpam",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "28",
+      "nama": "Muhammad Irawan, SP",
+      "nip": "36 3 2011 09190",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak Satpam",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "29",
+      "nama": "Mukhaliddin",
+      "nip": "36 3 2017 09199",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak Satpam",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "30",
+      "nama": "Darwis",
+      "nip": "36 3 2013 09202",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak Satpam",
+      "bagian": "Sub Bagian Hukum, Kepegawaian dan Umum"
+    },
+    {
+      "no": "1",
+      "nama": "M. Zein, SE",
+      "nip": "19651207 199703 1 005",
+      "gol": "III/d",
+      "jabatan": "Subkor Keuangan dan Pengelolaan Asset dan Analis keuangan Pusat/Daerah Ahli Muda",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "2",
+      "nama": "Muhammad Yusuf, SP",
+      "nip": "19660209 199402 1 001",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "3",
+      "nama": "M. Rizal, S.Pt",
+      "nip": "19681202 200604 1 002",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "4",
+      "nama": "Roslina, SE",
+      "nip": "19720506 200212 2 003",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "5",
+      "nama": "Heriyana, SE, M.Si",
+      "nip": "19850401 200604 2 002",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "6",
+      "nama": "Rosdiana, SE",
+      "nip": "19741029 201001 2 002",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "7",
+      "nama": "Nelli Mailiza, SE",
+      "nip": "19811028 200604 2 006",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "8",
+      "nama": "Hayatul Islam, S.Pt",
+      "nip": "19810407 200901 1 004",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "9",
+      "nama": "Mona Fitri, S.Pt, M.Si",
+      "nip": "19870513 200604 2 005",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "10",
+      "nama": "Rosmi, SE",
+      "nip": "19780403 201001 2 017",
+      "gol": "III/b",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "11",
+      "nama": "Rita Afrida, SE",
+      "nip": "19840404 200604 2 007",
+      "gol": "III/b",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "12",
+      "nama": "Abdul Gafur, SE",
+      "nip": "19740803 200604 1 002",
+      "gol": "III/b",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "13",
+      "nama": "Helmi Darwis, S.Sos",
+      "nip": "19780201 200701 1 002",
+      "gol": "III/b",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "14",
+      "nama": "Rahmi, A. Md",
+      "nip": "19790423 201103 2 001",
+      "gol": "III/a",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "15",
+      "nama": "Basyirun",
+      "nip": "19700111 200701 1 004",
+      "gol": "II/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "16",
+      "nama": "Afrizal, S.St",
+      "nip": "36 2 2012 09149",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "17",
+      "nama": "Masrul, S.Pt",
+      "nip": "36 2 2013 09171",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "18",
+      "nama": "Yulfiana Handayani, S.St",
+      "nip": "36 2 2013 09150",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "19",
+      "nama": "Neneng Sri Maryati, SE",
+      "nip": "36 1 2014 09119",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "20",
+      "nama": "Vivi Farda Lena, SE",
+      "nip": "36 1 2015 09120",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "21",
+      "nama": "Miva Julianda, A.Md",
+      "nip": "36 1 2015 09136",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "22",
+      "nama": "R. Ade Aldila, SE",
+      "nip": "36 1 2018 09133",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "23",
+      "nama": "Ummul Bararah, SE",
+      "nip": "36 1 2014 09132",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "24",
+      "nama": "Wahyu Utami, SE",
+      "nip": "36 1 2018 09128",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "25",
+      "nama": "Hendri Fahmi, A.Md",
+      "nip": "36 2 2014 09151",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "26",
+      "nama": "Fahmi Absanuris",
+      "nip": "36 3 2019 09192",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Keuangan dan Pengelolaan Asset"
+    },
+    {
+      "no": "1",
+      "nama": "Almuttaqin, SE, M.Si",
+      "nip": "19861212 200604 1 003",
+      "gol": "III/c",
+      "jabatan": "Plt. Ka Sub.Bag Program Informasi dan Hubungan Masyarakat",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "2",
+      "nama": "Drh. Syahrial Qadri",
+      "nip": "19740921 200604 1 002",
+      "gol": "IV/a",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "3",
+      "nama": "Zulfadli, SE, Ak, M.Si",
+      "nip": "19760622 200604 1 003",
+      "gol": "IV/a",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "4",
+      "nama": "Drh. Rita",
+      "nip": "19831022 200604 2 005",
+      "gol": "IV/a",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "5",
+      "nama": "Dwi Nurmaini, SH",
+      "nip": "19700421 200504 2 001",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "6",
+      "nama": "Sari Anita R, SE",
+      "nip": "19710128 200701 2 002",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "7",
+      "nama": "Ely Munira, S.Pt",
+      "nip": "19720214 200901 2 002",
+      "gol": "III/d",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "8",
+      "nama": "Epirosdiana, SE",
+      "nip": "19721231 200701 2 007",
+      "gol": "III/c",
+      "jabatan": "Staf",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "9",
+      "nama": "M.Fachrurrazi, SE",
+      "nip": "36 1 2017 09123",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "10",
+      "nama": "T. M. Mirza Keumala, S.Kom",
+      "nip": "36 1 2015 09124",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "11",
+      "nama": "Subhi Kurniawan, S.Si",
+      "nip": "36 1 2012 09122",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "12",
+      "nama": "Devi Fara Dilla, S.Pi",
+      "nip": "36 1 2017 09129",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "13",
+      "nama": "Fijar Wahyudi, SE",
+      "nip": "36 1 2014 09127",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    },
+    {
+      "no": "14",
+      "nama": "Muhammad Hafid, A.Md",
+      "nip": "36 1 2016 09140",
+      "gol": "-",
+      "jabatan": "Tenaga Kontrak",
+      "bagian": "Sub Bagian Program Informasi dan Hubungan Masyarakat"
+    }
+  ]
+}
