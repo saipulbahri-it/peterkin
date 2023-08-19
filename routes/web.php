@@ -23,8 +23,8 @@ Route::prefix('auth')->group(function () {
 });
 
 
-// Route::middleware('auth')->group(function () {
-Route::get('/app{any}', [SpaController::class, 'app'])->where('any', '.*');
-// });
-// Route::get('/login', [SpaController::class, 'index'])->name('login');
+Route::middleware('auth')->group(function () {
+    Route::get('/app{any}', [SpaController::class, 'app'])->where('any', '.*');
+});
+
 Route::get('/{any}', [SpaController::class, 'index'])->where('any', '.*');

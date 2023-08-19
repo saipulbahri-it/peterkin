@@ -14,11 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::middleware(['auth:sanctum'])->get('/account', function (Request $request) {
+Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
     return $request->user();
 });
 
-// Route::middleware('auth:sanctum')->group(function () {
+Route::middleware('auth:sanctum')->group(function () {
     Route::apiResources(
         [
             'user' => 'App\Http\Controllers\Api\UserController',
@@ -30,4 +30,4 @@ Route::middleware(['auth:sanctum'])->get('/account', function (Request $request)
             'employee' => 'App\Http\Controllers\Api\EmployeeController',
         ]
     );
-// });
+});
