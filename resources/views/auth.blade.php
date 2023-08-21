@@ -16,8 +16,8 @@
     <!-- Font Awesome Icons -->
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     
-    <script type="module" crossorigin src="/ui/js/auth-aebca20b.js"></script>
-    <link rel="modulepreload" crossorigin href="/ui/js/index_43108d59.js">
+    <script type="module" crossorigin src="/ui/js/auth-858bb147.js"></script>
+    <link rel="modulepreload" crossorigin href="/ui/js/index_a8fcfeb5.js">
     <link rel="stylesheet" href="/ui/css/index-224aa57d.css">
   </head>
   <body id="app">

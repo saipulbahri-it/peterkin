@@ -16,10 +16,10 @@
     <!-- Font Awesome Icons -->
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     
-    <script type="module" crossorigin src="/ui/js/app-0a717750.js"></script>
-    <link rel="modulepreload" crossorigin href="/ui/js/index_43108d59.js">
+    <script type="module" crossorigin src="/ui/js/app-b487880c.js"></script>
+    <link rel="modulepreload" crossorigin href="/ui/js/index_a8fcfeb5.js">
     <link rel="stylesheet" href="/ui/css/index-224aa57d.css">
-    <link rel="stylesheet" href="/ui/css/index-14319f9e.css">
+    <link rel="stylesheet" href="/ui/css/index-d209e14b.css">
   </head>
   <body class="g-sidenav-show bg-gray-100">
     <div class="min-height-300 bg-primary position-absolute w-100"></div>
