@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Providers\RouteServiceProvider;
+use Illuminate\Http\Request;
 
 class SpaController extends Controller
 {
@@ -20,8 +22,13 @@ class SpaController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function index()
+    public function index(Request $request)
     {
+        if ($request->user()) {
+            return redirect()->intended(
+                config('app.frontend_url') . RouteServiceProvider::HOME
+            );
+        }
         return view('auth');
     }
 
