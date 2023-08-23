@@ -30,13 +30,11 @@ Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
 Route::middleware('auth:sanctum')->group(function () {
     Route::apiResources(
         [
+            'position' => 'App\Http\Controllers\Api\positionController',
             'users' => 'App\Http\Controllers\Api\UserController',
             'role' => 'App\Http\Controllers\Api\RoleController',
-            'task' => 'App\Http\Controllers\Api\TaskController',
             'team' => 'App\Http\Controllers\Api\TeamController',
-            'organization' => 'App\Http\Controllers\Api\OrganizationController',
-            'department' => 'App\Http\Controllers\Api\DepartmentController',
-            'employee' => 'App\Http\Controllers\Api\EmployeeController',
+            'task' => 'App\Http\Controllers\Api\TaskController',
         ]
     );
 });

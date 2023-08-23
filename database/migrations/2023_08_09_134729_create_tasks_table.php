@@ -19,7 +19,10 @@ return new class extends Migration
             $table->unsignedBigInteger('jobdesc_id')->nullable();
             $table->string('title');
             $table->string('description', 1000);
-            $table->boolean('primary')->default('0');
+            $table->string('task_status')->default("To-Do");
+            $table->string('task_source')->nullable();
+            $table->boolean('is_primary')->default('0');
+            $table->boolean('compleated')->default('0');
             $table->timestamps();
         });
     }

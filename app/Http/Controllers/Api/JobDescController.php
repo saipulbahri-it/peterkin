@@ -1,7 +1,8 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Api;
 
+use App\Http\Controllers\Controller;
 use App\Http\Requests\StoreJobDescRequest;
 use App\Http\Requests\UpdateJobDescRequest;
 use App\Models\JobDesc;
@@ -14,16 +15,6 @@ class JobDescController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
-    {
-        //
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     *
-     * @return \Illuminate\Http\Response
-     */
-    public function create()
     {
         //
     }
@@ -46,17 +37,6 @@ class JobDescController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function show(JobDesc $jobDesc)
-    {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  \App\Models\JobDesc  $jobDesc
-     * @return \Illuminate\Http\Response
-     */
-    public function edit(JobDesc $jobDesc)
     {
         //
     }

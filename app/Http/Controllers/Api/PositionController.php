@@ -3,11 +3,12 @@
 namespace App\Http\Controllers\Api;
 
 use App\Http\Controllers\Controller;
-use App\Models\Team;
-use Illuminate\Http\Request;
+use App\Http\Requests\StorePositionRequest;
+use App\Http\Requests\UpdatePositionRequest;
+use App\Models\Position;
 use Illuminate\Http\Resources\Json\JsonResource;
 
-class TeamController extends Controller
+class PositionController extends Controller
 {
     protected $perPage = 15;
 
@@ -23,11 +24,9 @@ class TeamController extends Controller
      */
     public function index()
     {
-        $items = Team::withCount('users')->paginate($this->perPage);
+        $items = Position::withCount('jobDescs')->paginate($this->perPage);
 
-        $items->load("owner");
-        $items->load("invites");
-        $items->load("users");
+        $items->load("jobDescs");
 
         return JsonResource::collection($items)->additional([
             'field' => array(
@@ -45,9 +44,10 @@ class TeamController extends Controller
     /**
      * Store a newly created resource in storage.
      *
+     * @param  \App\Http\Requests\StorePositionRequest  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(StorePositionRequest $request)
     {
         //
     }
@@ -55,10 +55,10 @@ class TeamController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  int  $id
+     * @param  \App\Models\Position  $position
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show(Position $position)
     {
         //
     }
@@ -66,10 +66,11 @@ class TeamController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  int  $id
+     * @param  \App\Http\Requests\UpdatePositionRequest  $request
+     * @param  \App\Models\Position  $position
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(UpdatePositionRequest $request, Position $position)
     {
         //
     }
@@ -77,10 +78,10 @@ class TeamController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  int  $id
+     * @param  \App\Models\Position  $position
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Position $position)
     {
         //
     }

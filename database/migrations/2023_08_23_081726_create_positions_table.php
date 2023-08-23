@@ -13,12 +13,11 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('job_descs', function (Blueprint $table) {
+        Schema::create('positions', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('position_id');
-            $table->string('title');
-            $table->string('description', 1000);
-            $table->boolean('active')->default('1');
+            $table->string('name');
+            $table->string('description', 255)->nullable();
+            $table->string('summary_tasks', 1000)->nullable();
             $table->timestamps();
         });
     }
@@ -30,6 +29,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('job_descs');
+        Schema::dropIfExists('positions');
     }
 };
