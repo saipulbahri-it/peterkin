@@ -30,7 +30,7 @@ Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
 Route::middleware('auth:sanctum')->group(function () {
     Route::apiResources(
         [
-            'position' => 'App\Http\Controllers\Api\positionController',
+            'position' => 'App\Http\Controllers\Api\PositionController',
             'users' => 'App\Http\Controllers\Api\UserController',
             'role' => 'App\Http\Controllers\Api\RoleController',
             'team' => 'App\Http\Controllers\Api\TeamController',
