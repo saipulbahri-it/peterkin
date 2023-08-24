@@ -9,6 +9,12 @@ class Position extends Model
 {
     use HasFactory;
 
+    protected $fillable = [
+        'name',
+        'summary_tasks',
+        'description',
+    ];
+
     public function jobDescs()
     {
         return $this->hasMany(JobDesc::class);

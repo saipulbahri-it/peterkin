@@ -49,7 +49,7 @@ class PositionController extends Controller
      */
     public function store(StorePositionRequest $request)
     {
-        //
+        return Position::create($request->all());
     }
 
     /**
@@ -72,7 +72,7 @@ class PositionController extends Controller
      */
     public function update(UpdatePositionRequest $request, Position $position)
     {
-        //
+        return $position->update($request->all());
     }
 
     /**
@@ -83,6 +83,6 @@ class PositionController extends Controller
      */
     public function destroy(Position $position)
     {
-        //
+        return $position->delete();
     }
 }

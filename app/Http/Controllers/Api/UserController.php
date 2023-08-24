@@ -24,8 +24,7 @@ class UserController extends Controller
      */
     public function index()
     {
-        $items = User::with("teams","currentTeam")->paginate($this->perPage);
-
+        $items = User::with("teams", "currentTeam")->paginate($this->perPage);
 
         return JsonResource::collection($items)->additional([
             'field' => array(
