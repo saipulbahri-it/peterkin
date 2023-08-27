@@ -17,7 +17,7 @@ return new class extends Migration
             $table->id();
             $table->unsignedBigInteger('position_id');
             $table->string('title');
-            $table->string('description', 1000);
+            $table->string('description', 1000)->nullable();
             $table->boolean('active')->default('1');
             $table->timestamps();
         });

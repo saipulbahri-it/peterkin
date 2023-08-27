@@ -5,6 +5,7 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\StorePositionRequest;
 use App\Http\Requests\UpdatePositionRequest;
+use App\Models\JobDesc;
 use App\Models\Position;
 use Illuminate\Http\Resources\Json\JsonResource;
 
@@ -49,7 +50,18 @@ class PositionController extends Controller
      */
     public function store(StorePositionRequest $request)
     {
-        return Position::create($request->all());
+
+        $position = Position::create($request->all());
+
+        if ($request->has('job_descs')) {
+            $newJobDescs = collect($request->job_descs)->whereNotNull("title")->map(function ($item) {
+                return new JobDesc($item);
+            });
+
+            $position->jobDescs()->saveMany($newJobDescs);
+        }
+
+        return $position;
     }
 
     /**
@@ -72,6 +84,12 @@ class PositionController extends Controller
      */
     public function update(UpdatePositionRequest $request, Position $position)
     {
+        if ($request->has('job_descs')) {
+            foreach (collect($request->input('job_descs'))->whereNotNull('title') as $jobdesc) {
+                $position->jobDescs()->updateOrCreate(["id" => @$jobdesc["id"]], $jobdesc);
+            }
+        }
+
         return $position->update($request->all());
     }
 

@@ -59,8 +59,9 @@ class JobDescController extends Controller
      * @param  \App\Models\JobDesc  $jobDesc
      * @return \Illuminate\Http\Response
      */
-    public function destroy(JobDesc $jobDesc)
+    public function destroy($id)
     {
-        //
+        $jobDesc = JobDesc::findOrFail($id);
+        return $jobDesc->delete();
     }
 }

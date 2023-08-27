@@ -31,6 +31,7 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::apiResources(
         [
             'position' => 'App\Http\Controllers\Api\PositionController',
+            'jobdesc' => 'App\Http\Controllers\Api\JobDescController',
             'users' => 'App\Http\Controllers\Api\UserController',
             'role' => 'App\Http\Controllers\Api\RoleController',
             'team' => 'App\Http\Controllers\Api\TeamController',
