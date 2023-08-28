@@ -18,7 +18,7 @@ return new class extends Migration
             $table->unsignedBigInteger('user_id');
             $table->unsignedBigInteger('taks_id');
             $table->string('task');
-            $table->string('status');
+            $table->string('status')->nullable();
             $table->timestamps();
         });
     }

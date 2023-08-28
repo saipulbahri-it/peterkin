@@ -15,8 +15,8 @@ return new class extends Migration
     {
         Schema::create('job_descs', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('position_id');
-            $table->string('title');
+            $table->unsignedBigInteger('position_id')->nullable();
+            $table->string('title', 1000);
             $table->string('description', 1000)->nullable();
             $table->boolean('active')->default('1');
             $table->timestamps();
