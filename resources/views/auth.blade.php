@@ -16,9 +16,9 @@
     <!-- Font Awesome Icons -->
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     
-    <script type="module" crossorigin src="/ui/js/auth-987ec00b.js"></script>
-    <link rel="modulepreload" crossorigin href="/ui/js/index_91483afe.js">
-    <link rel="modulepreload" crossorigin href="/ui/js/index_1bdb0db0.js">
+    <script type="module" crossorigin src="/ui/js/auth-1e74da59.js"></script>
+    <link rel="modulepreload" crossorigin href="/ui/js/index_282ecea6.js">
+    <link rel="modulepreload" crossorigin href="/ui/js/index_e2fb23ed.js">
     <link rel="stylesheet" href="/ui/css/index-4a60a173.css">
     <link rel="stylesheet" href="/ui/css/auth-8a30fb5b.css">
   </head>
