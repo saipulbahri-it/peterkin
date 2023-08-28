@@ -17,6 +17,7 @@ return new class extends Migration
             $table->id();
             $table->unsignedBigInteger('user_id');
             $table->unsignedBigInteger('jobdesc_id')->nullable();
+            $table->unsignedBigInteger('team_id')->nullable();
             $table->string('title', 1000);
             $table->string('description', 1000)->nullable();
             $table->string('task_status')->default("To-Do");

@@ -9,6 +9,13 @@ use Illuminate\Http\Resources\Json\JsonResource;
 
 class TaskController extends Controller
 {
+    protected $perPage = 15;
+
+    public function __construct()
+    {
+        $this->perPage = request('per_page', 15) <= 100 ? request('per_page') : $this->perPage;
+    }
+
     /**
      * Display a listing of the resource.
      *
@@ -16,7 +23,21 @@ class TaskController extends Controller
      */
     public function index()
     {
-        $items = Task::paginate();
+        $items = Task::where('user_id', auth()->user()->id)->paginate($this->perPage);
+
+        $items->load("jobDesc");
+
+        return JsonResource::collection($items)->additional([
+            'field' => array(
+                [
+                    'name' => 'name',
+                    'label' => trans('team.field.name')
+                ], [
+                    'key' => 'owner',
+                    'label' => trans('team.field.owner'),
+                ]
+            )
+        ]);
 
         return JsonResource::collection($items);
     }
@@ -28,7 +49,7 @@ class TaskController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        return  $request->user()->tasks()->create($request->all());
     }
 
     /**
@@ -39,7 +60,7 @@ class TaskController extends Controller
      */
     public function show($id)
     {
-        //
+        return Task::findOrFail($id);
     }
 
     /**
@@ -50,7 +71,9 @@ class TaskController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $task = Task::findOrFail($id);
+
+        return $task->update($request->all());
     }
 
     /**
@@ -61,6 +84,8 @@ class TaskController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $task = Task::findOrFail($id);
+
+        return $task->delete();
     }
 }
