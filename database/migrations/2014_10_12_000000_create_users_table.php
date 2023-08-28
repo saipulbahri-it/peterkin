@@ -20,6 +20,7 @@ return new class extends Migration
             $table->string('username')->unique();
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
+            $table->unsignedBigInteger('position_id')->nullable();
             $table->string('position')->nullable();
             $table->string('class')->nullable();
             $table->string('avatar');

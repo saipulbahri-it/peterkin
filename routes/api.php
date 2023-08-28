@@ -38,4 +38,6 @@ Route::middleware('auth:sanctum')->group(function () {
             'task' => 'App\Http\Controllers\Api\TaskController',
         ]
     );
+    Route::get('positions',[App\Http\Controllers\Api\PositionController::class,"all"]);
+    Route::get('teams',[App\Http\Controllers\Api\TeamController::class,"all"]);
 });

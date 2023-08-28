@@ -16,6 +16,17 @@ class TeamController extends Controller
         $this->perPage = request('per_page', 15) <= 100 ? request('per_page') : $this->perPage;
     }
 
+    public function all()
+    {
+        $items = Team::withCount('users')->get();
+
+        $items->load("owner");
+        $items->load("invites");
+        $items->load("users");
+
+        return JsonResource::collection($items);
+    }
+
     /**
      * Display a listing of the resource.
      *

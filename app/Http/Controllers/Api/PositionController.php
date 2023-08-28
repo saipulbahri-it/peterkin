@@ -18,6 +18,15 @@ class PositionController extends Controller
         $this->perPage = request('per_page', 15) <= 100 ? request('per_page') : $this->perPage;
     }
 
+    public function all()
+    {
+        $items = Position::withCount('jobDescs')->get();
+
+        $items->load("jobDescs");
+
+        return JsonResource::collection($items);
+    }
+
     /**
      * Display a listing of the resource.
      *

@@ -62,7 +62,7 @@ class UserController extends Controller
      */
     public function show(User $user)
     {
-        //
+        return $user;
     }
 
     /**
@@ -72,7 +72,9 @@ class UserController extends Controller
      */
     public function update(UpdateUserRequest $request, User $user)
     {
-        //
+        $user->update($request->all());
+
+        return $user;
     }
 
     /**
@@ -82,6 +84,6 @@ class UserController extends Controller
      */
     public function destroy(User $user)
     {
-        //
+        return $user->delete();
     }
 }
