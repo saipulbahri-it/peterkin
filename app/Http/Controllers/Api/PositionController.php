@@ -15,7 +15,8 @@ class PositionController extends Controller
 
     public function __construct()
     {
-        $this->perPage = request('per_page', 200) <= 200 ? request('per_page') : $this->perPage;
+        // $this->perPage = request('per_page', 200) <= 200 ? request('per_page') : $this->perPage;
+        $this->perPage = 2200;
     }
 
     public function all()
