@@ -8,4 +8,10 @@ use Mpociot\Teamwork\TeamworkTeam;
 class Team extends TeamworkTeam
 {
     use HasFactory;
+
+
+    public function userTask()
+    {
+        return $this->hasManyThrough(Task::class, User::class, 'id', 'user_id');
+    }
 }
