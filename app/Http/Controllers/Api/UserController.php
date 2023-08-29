@@ -24,7 +24,7 @@ class UserController extends Controller
      */
     public function index()
     {
-        $items = User::with("teams", "currentTeam")->paginate($this->perPage);
+        $items = User::with("teams", "currentTeam", "currentPosition")->paginate($this->perPage);
 
         return JsonResource::collection($items)->additional([
             'field' => array(
@@ -60,8 +60,10 @@ class UserController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function show(User $user)
+    public function show($id)
     {
+        $user = User::with(['currentTeam', 'currentPosition'])->findOrFail($id);
+
         return $user;
     }
 

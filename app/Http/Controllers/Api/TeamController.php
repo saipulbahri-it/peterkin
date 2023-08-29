@@ -71,7 +71,7 @@ class TeamController extends Controller
      */
     public function show($id)
     {
-        $team = Team::with('users.tasks')->findOrFail($id);
+        $team = Team::with(['users.currentPosition','users.tasks'])->findOrFail($id);
         $team->load('userTask');
         return $team;
     }
