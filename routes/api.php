@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -24,7 +25,7 @@ Route::middleware('auth:sanctum')->group(function () {
 });
 
 Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
-    return $request->user();
+    return User::with('currentTeam', 'currentPosition')->findOrFail($request->user()->id);
 });
 
 Route::middleware('auth:sanctum')->group(function () {
@@ -38,6 +39,7 @@ Route::middleware('auth:sanctum')->group(function () {
             'task' => 'App\Http\Controllers\Api\TaskController',
         ]
     );
-    Route::get('positions',[App\Http\Controllers\Api\PositionController::class,"all"]);
-    Route::get('teams',[App\Http\Controllers\Api\TeamController::class,"all"]);
+    Route::get('positions', [App\Http\Controllers\Api\PositionController::class, "all"]);
+    Route::get('teams', [App\Http\Controllers\Api\TeamController::class, "all"]);
+    Route::post('task/{id}/setStatus', [App\Http\Controllers\Api\TaskController::class, "setStatus"]);
 });

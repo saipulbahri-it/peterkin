@@ -76,6 +76,18 @@ class TaskController extends Controller
         return $task->update($request->all());
     }
 
+    public function setStatus(Request $request, $id)
+    {
+        $task = Task::findOrFail($id);
+        if($request->task_status){
+            $task->task_status = $request->task_status;
+            $task->save();
+        }
+
+        return $task;
+    }
+
+
     /**
      * Remove the specified resource from storage.
      *
