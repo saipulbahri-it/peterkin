@@ -79,9 +79,9 @@ class PositionController extends Controller
      * @param  \App\Models\Position  $position
      * @return \Illuminate\Http\Response
      */
-    public function show(Position $position)
+    public function show($id)
     {
-        //
+        return Position::with('jobDescs')->findOrFail($id);
     }
 
     /**

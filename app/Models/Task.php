@@ -13,7 +13,8 @@ class Task extends Model
 
     protected $fillable = [
         'title',
-        'description'
+        'description',
+        'job_desc_id'
     ];
 
     public function jobDesc()
