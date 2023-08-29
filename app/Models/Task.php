@@ -14,7 +14,8 @@ class Task extends Model
     protected $fillable = [
         'title',
         'description',
-        'job_desc_id'
+        'job_desc_id',
+        'task_source',
     ];
 
     public function jobDesc()
