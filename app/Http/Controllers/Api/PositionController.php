@@ -11,11 +11,11 @@ use Illuminate\Http\Resources\Json\JsonResource;
 
 class PositionController extends Controller
 {
-    protected $perPage = 15;
+    protected $perPage = 200;
 
     public function __construct()
     {
-        $this->perPage = request('per_page', 15) <= 100 ? request('per_page') : $this->perPage;
+        $this->perPage = request('per_page', 200) <= 200 ? request('per_page') : $this->perPage;
     }
 
     public function all()
