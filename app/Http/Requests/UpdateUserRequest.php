@@ -24,10 +24,10 @@ class UpdateUserRequest extends FormRequest
     public function rules()
     {
         return [
-            "name" => 'required',
-            "number" => 'required',
-            "position_id" => 'nullable',
-            "current_team_id" => 'nullable',
+            'name' => 'required',
+            'number' => 'required',
+            'position_id' => 'nullable',
+            'current_team_id' => 'nullable',
         ];
     }
 }

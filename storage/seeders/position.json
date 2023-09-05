@@ -1,0 +1,3318 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "1. Kepala Dinas",
+            "description": null,
+            "summary_tasks": "Memimpin Dinas Peternakan Aceh  dalam melaksanakan tugas umum pemerintahan dan pembangunan di  bidang kesehatan  hewan dan   veteriner,  usaha pengolahan, pemasaran  hasil  pembibitan  dan   produksi  ternak  serta   pakan  sesuai  dengan peraturan  perundang-undangan yang berlaku untuk  mendukung kelancaran tugas pokok pemerintahan.",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-31T08:59:44.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 223,
+                    "position_id": 1,
+                    "title": "Membuat rencana kerja berdasarkan peraturan yang  berlaku untuk pedoman pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                },
+                {
+                    "id": 224,
+                    "position_id": 1,
+                    "title": "Membagi  tugas   kepada   bawahan   sesuai   bidang   masing-masing    agar pelaksanaannya dapat berjalan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                },
+                {
+                    "id": 225,
+                    "position_id": 1,
+                    "title": "Memberi  petunjuk  kepada  bawahan  berdasarkan pembagian tugas   agar memahami tugasnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                },
+                {
+                    "id": 226,
+                    "position_id": 1,
+                    "title": "Mengkoordinasikan dan   mengevaluasi pelaksanaan pekerjaan  bawahan  dan  mengecek hasilnya  secara langsung atau  melalui  laporan untuk  mengetahui kelancaran serta hambatan yang  terjadi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                },
+                {
+                    "id": 227,
+                    "position_id": 1,
+                    "title": "Membina  dan  memotivasi bawahan secara berkala dalam  upaya pcningkatan produktivitas kerja  dan pengembangan karir;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                },
+                {
+                    "id": 228,
+                    "position_id": 1,
+                    "title": "Mengendalikan kegiatan urusan  ketatausahaan  dinas sesua bidang  tugas  dan kewenangan dalam  rangka kelancaran administrasi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                },
+                {
+                    "id": 229,
+                    "position_id": 1,
+                    "title": "Mengawasi    pelaksanaan    penyusunan   program     kerja   tahunan,   jangka menengah dan jangka panjang sesuai  dengan  ketentuan dan  kebutuhan agar pelaksanaan kegiatan tercapai  sasaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T08:59:44.000000Z",
+                    "updated_at": "2023-08-31T08:59:44.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "2. Sekretaris",
+            "description": null,
+            "summary_tasks": "Memimpin Sekretariat dalam pelaksanaan pengelolaan urusan  administrasi, umum, perlengkapan, peralatan, kerumahtanggaan,  perpustakan, keuangan,  kepegawaian, ketatalaksanaan,     hukum,     perundang-undangan,   pelayanan    administrasi    di lingkungan  Dinas Peternakan Aceh  sesuai dengan peraturan  perundang-undangan yang berlaku untuk mendukung kelancaran tugas pokok Dinas Peternakan Aceh.",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-31T09:05:32.000000Z",
+            "job_descs_count": 19,
+            "job_descs": [
+                {
+                    "id": 230,
+                    "position_id": 2,
+                    "title": "Membuat rencana kerja berdasarkan peraturan yang berlaku untuk pedoman pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 231,
+                    "position_id": 2,
+                    "title": "Membagi tugas   kepada  bawahan  sesuai  bidang  masing masing agar pelaksanaannya dapat berjalan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 232,
+                    "position_id": 2,
+                    "title": "Memberi petunjuk   kepada  bawahan  berdasarkan  pembagian  tugas   agar memahami tugasnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 233,
+                    "position_id": 2,
+                    "title": "Mengawasi  pelaksanaan   pekerjaan  bawahan   dan    mengevaluasi  hasilnya secara  langsung atau  melalui laporan untuk  mengetahui kelancaran  serta hambatan yang terjadi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 234,
+                    "position_id": 2,
+                    "title": "Memotivasi bawahan  dengan memberikan perhatian  dan penghargaan untuk peningkatan produkti.fitas kerja dan  pengembangan karier;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 235,
+                    "position_id": 2,
+                    "title": "Mengendalikan   kegiatan   penyusunan    program   kerja    tahunan    jangka menengah  dan   jangka panjang sesuai ketentuan  dalam  rangka  kelancaran pelaksanaan kegiatan dinas.;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 236,
+                    "position_id": 2,
+                    "title": "Mengendalikan kegiatan penyusunan rencana  anggaran yang bersumber dari APBA,  APBN,  dan  sumber lainnya yang sah  sesuai ketentuan  dalam rangka kelancaran pelaksanaan kegiatan dinas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 237,
+                    "position_id": 2,
+                    "title": "Mengcndalikankegiatan penyiapan data dan   informasi  di  bidang peternakan sesuai \tdengan   ketentuan   dan     kcbutuhan   dalam   rangka   pemenuhan kebutuhan data di bidang pcternakan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 238,
+                    "position_id": 2,
+                    "title": "Mengendalikan  kegiatan  pemantauan,   evaluasi,  dan    pelaporan  di   bidang peternakan   secara  periodik untuk  mngetahui  hambatan  yang  terjadi  dan mencari altematif pemecahannya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 239,
+                    "position_id": 2,
+                    "title": "Mengawasi kegiatan urusan ketatausahaan, rumah tangga, barang inventaris, aset, \tperlengkapan,   peralatan,   pemeliharaan,  dan   perpustakaan    sesuai ketentuan dan kebutuhan agar kegiatan dinas dapat berjalan dengan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 240,
+                    "position_id": 2,
+                    "title": "Mengawasi pelaksanaan  kegiatan pembinaan kepegawaian sesuai  ketentuan dalam rangka peningkatan kinerja pegawai;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 241,
+                    "position_id": 2,
+                    "title": "Mengawasi  pelaksanaan  kegiatan  organisasi  dan  ketatalaksanaan    sesuai ketentuan  dalam rangka peningkatan kinerja dinas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 242,
+                    "position_id": 2,
+                    "title": "Mengawasi pelaksanaan  kegiatan  hukum  dan  perundang-undangan   sesuai ketentuan dalam rangka tersusunnya produk hukum;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 243,
+                    "position_id": 2,
+                    "title": "Mengendalikan pelaksanaan hubungan masyarakat sesuai ketentuan  dalam rangka penyebarluasan informasi petemakan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 244,
+                    "position_id": 2,
+                    "title": "Mengawasi pelaksanaan kegiatan pengelolaan administrasi  keuangan  sesuai ketentuan  dalam rangka menghindari terjadinya penyalahgunaan dan penyimpangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 245,
+                    "position_id": 2,
+                    "title": "Mengendalikan  dan   mengorganisir pelaksanaan  kegiatan  pengelolaan  dana dekonsentrasi  dan   dana  pembangunan dari   APBA  sesuai ketentuan  dalam rangka menghindari terjadinya penyalahgunaan dan penyimpangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 246,
+                    "position_id": 2,
+                    "title": "Melaksanakan koordinasi dengan  instansi  terkait   sesuai  bidang  tugasnya dalam rangka sinkronisasi pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 247,
+                    "position_id": 2,
+                    "title": "Melaksanakan tugas-tugas kedinasan lainnya  sesuai  instruksi atasan  agar tugas terbagi habis;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                },
+                {
+                    "id": 248,
+                    "position_id": 2,
+                    "title": "Membuat   laporan  hasil  pelaksanaan  tugas  kepada  atasan  sebagai bahan untuk penyusunan program selanjutnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:05:32.000000Z",
+                    "updated_at": "2023-08-31T09:05:32.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "2.3 Ka. Subbag Hukum, Kepegawaian dan Umum",
+            "description": null,
+            "summary_tasks": "Memimpin Sub Bagian Hukum, Kepegawaian, dan Umum mempunyai tugas  melakukan urusan hukum dan perundang-undangan ketatalaksanaan, urusan kepegawaian, organisasi, ketatausahaan, rumah tangga, barang inventaris, perlengkapan, peralatan, pemeliharaan dan perpustakaan sesuai dengan peraturan  perundang-undangan yang berlaku untuk mendukung kelancaran tugas pokok Sekretariat.",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-29T07:30:02.000000Z",
+            "job_descs_count": 5,
+            "job_descs": [
+                {
+                    "id": 68,
+                    "position_id": 3,
+                    "title": "Membuat rencana kerja berdasarkan peraturan yang berlaku untuk pedoman pelaksanaan tugas",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:12:11.000000Z",
+                    "updated_at": "2023-08-29T06:12:11.000000Z"
+                },
+                {
+                    "id": 69,
+                    "position_id": 3,
+                    "title": "Membagi tugas kepada bawahan sesuai bidang masing-masing agar memahami tugasnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:12:11.000000Z",
+                    "updated_at": "2023-08-29T06:12:11.000000Z"
+                },
+                {
+                    "id": 70,
+                    "position_id": 3,
+                    "title": "Memberi petunjuk kepada bawahan berdasarkan pembagian tugas agar pelaksanaannya dapat berjalan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:12:11.000000Z",
+                    "updated_at": "2023-08-29T06:12:11.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Staf Pengelola Keuangan",
+            "description": null,
+            "summary_tasks": "Mengelola....",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-27T17:36:29.000000Z",
+            "job_descs_count": 0,
+            "job_descs": []
+        },
+        {
+            "id": 5,
+            "name": "Tenaga Kontrak",
+            "description": null,
+            "summary_tasks": "Mengelola....",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-23T09:41:42.000000Z",
+            "job_descs_count": 0,
+            "job_descs": []
+        },
+        {
+            "id": 6,
+            "name": "Tenaga Kontrak Satpam",
+            "description": null,
+            "summary_tasks": "Mengelola....",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-23T09:41:42.000000Z",
+            "job_descs_count": 0,
+            "job_descs": []
+        },
+        {
+            "id": 7,
+            "name": "Subkor Keuangan dan Pengelolaan Asset dan Analis keuangan Pusat\/Daerah Ahli Muda",
+            "description": null,
+            "summary_tasks": "Mengelola....",
+            "created_at": "2023-08-23T09:41:42.000000Z",
+            "updated_at": "2023-08-23T09:41:42.000000Z",
+            "job_descs_count": 0,
+            "job_descs": []
+        },
+        {
+            "id": 8,
+            "name": "2.1 Plt. Ka Sub.Bag Program Informasi dan Hubungan Masyarakat",
+            "description": null,
+            "summary_tasks": "Memimpin Sub Bagian Program, Informasi dan Hubungan Masyarakat dalam\npelaksanaan kegiatan urusan penyusunan program, data informasi,\npemantauan, evaluasi dan pelaporan serta kehumasan sesuai peraturan\nperundang-undangan untuk mendukung kelancaran tugas pokok Sekretariat.",
+            "created_at": "2023-08-23T09:41:43.000000Z",
+            "updated_at": "2023-08-29T07:27:50.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 7,
+                    "position_id": 8,
+                    "title": "Membuat rencana kerja berdasarkan peraturan yang berlaku untuk pedoman pelaksanaan kegiatan.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:47:13.000000Z",
+                    "updated_at": "2023-08-28T07:47:13.000000Z"
+                },
+                {
+                    "id": 8,
+                    "position_id": 8,
+                    "title": "Membagi tugas kepada bawahan sesuai bidang masing-masing agar memahami tugasnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:47:13.000000Z",
+                    "updated_at": "2023-08-28T07:47:13.000000Z"
+                },
+                {
+                    "id": 9,
+                    "position_id": 8,
+                    "title": "Memberi petunjuk kepada bawahan berdasarkan pembagian tugas agar pelaksanaannya dapat berjalan lancar",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:47:13.000000Z",
+                    "updated_at": "2023-08-28T07:47:13.000000Z"
+                },
+                {
+                    "id": 10,
+                    "position_id": 8,
+                    "title": "Mengkeordinasikan dan mengevaluasi pelaksanaan pekerjaan bawahan untuk mengecek hasilnya secara langsung atau melalui laporan untuk mengetahui kelancaran dan hambatan yang terjadi",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:47:13.000000Z",
+                    "updated_at": "2023-08-28T07:47:13.000000Z"
+                },
+                {
+                    "id": 11,
+                    "position_id": 8,
+                    "title": "Membina dan memotivasi bawahan dalam upaya meningkatkan produktifitas kerja dan pengembangan karier",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:47:13.000000Z",
+                    "updated_at": "2023-08-28T07:47:13.000000Z"
+                },
+                {
+                    "id": 12,
+                    "position_id": 8,
+                    "title": "Mengkoordinir pelaksanaan kegiatan penyusunan program kerja tahunan, jangka menengah dan jangka panjang berdasarkan masukan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:47:13.000000Z",
+                    "updated_at": "2023-08-28T07:47:13.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Penyusun Rencana Rumah Tangga dan Perlengkapan",
+            "description": null,
+            "summary_tasks": "Melakukan proses penyusunan bahan informasi dan publikasi kegiatan dinas\nsesuai dengan ketentuan dan kebutuhan untuk mendukung kelancaran fugas\npokok Subbagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-28T07:29:43.000000Z",
+            "updated_at": "2023-08-28T07:29:43.000000Z",
+            "job_descs_count": 3,
+            "job_descs": [
+                {
+                    "id": 4,
+                    "position_id": 10,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:29:44.000000Z",
+                    "updated_at": "2023-08-28T07:29:44.000000Z"
+                },
+                {
+                    "id": 5,
+                    "position_id": 10,
+                    "title": "Menghimpun bahan dan data rencana kebutuhan rumah tangga dan perlengkapan sesuai masukan dalam rangka tersusunnya kebutuhan rumah tangga dan perlengkapan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:29:44.000000Z",
+                    "updated_at": "2023-08-28T07:29:44.000000Z"
+                },
+                {
+                    "id": 6,
+                    "position_id": 10,
+                    "title": "Melakukan proses penyusunan rencana kebutuhan rumah tangga dan perlengkapan sesuai ketentuan dan kebutuhan dalam rangka terpenuhi kebutuhan rumah tangga dan perlengkapan;\nMenyampaikan bahan untuk publikasi kepada atasan untuk mendapat koreksi dan penyempurnaan lebih lanjut;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T07:29:44.000000Z",
+                    "updated_at": "2023-08-28T07:31:11.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "2.1.2 Pengelola Program dan Laporan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengumpulan dan pengelolaan program dan laporan sesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Sub Bagian Program, Informasi dan Hubungan Masyarakat",
+            "created_at": "2023-08-28T08:00:01.000000Z",
+            "updated_at": "2023-08-29T07:28:01.000000Z",
+            "job_descs_count": 3,
+            "job_descs": [
+                {
+                    "id": 13,
+                    "position_id": 11,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang di berikan atasan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-28T08:00:01.000000Z",
+                    "updated_at": "2023-08-28T08:00:01.000000Z"
+                },
+                {
+                    "id": 79,
+                    "position_id": 11,
+                    "title": "Menyusun program kerja, bahan dan alat perlengkapan untuk pengadministrasian perencanaan dan program sesuai dengan prosedur dan ketentuan yang berlaku agar dalam pelaksanaan pekerjaan dapat berjalan baik;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:54:55.000000Z",
+                    "updated_at": "2023-08-29T06:54:55.000000Z"
+                },
+                {
+                    "id": 80,
+                    "position_id": 11,
+                    "title": "lainnya sesuai instruksi atasan agar tugas",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:54:55.000000Z",
+                    "updated_at": "2023-08-29T06:54:55.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "2.1.3 Penyusun Bahan Informasi dan Publikasi",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan Penyusunan Bahan Informasi dan Publikasi sesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Subbagian Program, Informasi dan Hubungan Masyarakat.",
+            "created_at": "2023-08-29T02:27:17.000000Z",
+            "updated_at": "2023-09-03T03:44:13.000000Z",
+            "job_descs_count": 9,
+            "job_descs": [
+                {
+                    "id": 15,
+                    "position_id": 12,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 16,
+                    "position_id": 12,
+                    "title": "Menerima dan memeriksa bahan dan data informasi sesuai prosedur sebagai bahan bahan kajian dalam rangka penyusunan bahan informasi dan publikasi",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 17,
+                    "position_id": 12,
+                    "title": "Mengumpulkan dan mengklasifikasikan bahan dan data informasi sesuai spesifikasi dan prosedur untuk memudahkan pencarian apabila diperlukan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 18,
+                    "position_id": 12,
+                    "title": "Mempelajari dan mengkaji karakteristik, spesifikasi dan hal-hal terkait dengan data informasi sesuai prosedur dalam rangka penyusunan data informasi dan publikasi",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 19,
+                    "position_id": 12,
+                    "title": "Menyusun konsep penyusunan data informasi sesuai dengan hasil kajian untuk tercapainya sasaran yang diharapkan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 20,
+                    "position_id": 12,
+                    "title": "Menyusun kembali data informasi dan publikasi berdasarkan hasil penyempurnaan konsep sesuai prosedur untuk kelancaran dan optimalisasi penyusunan data informasi dan publikasi",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 21,
+                    "position_id": 12,
+                    "title": "Mengevaluasi proses penyusunan data informasi dan publikasi sesuai prosedur sebagai bahan perbaikan dan kesempurnaan tercapainya sasaran",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 22,
+                    "position_id": 12,
+                    "title": "Melaksanakan tugas kedinasan lainnya yang di berikan atasan agar tugas terbagi habis",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                },
+                {
+                    "id": 23,
+                    "position_id": 12,
+                    "title": "Membuat Laporan hasil pelaksanaan tugas kepada atasan untuk mendapatkan petunjuk",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:27:17.000000Z",
+                    "updated_at": "2023-08-29T02:27:17.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "2.1.1 Pengevaluasi Program dan Kinerja",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan evaluasi program dan kinerjasesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Subbagian Program, Informasi dan Hubungan Masyarakat.",
+            "created_at": "2023-08-29T02:31:45.000000Z",
+            "updated_at": "2023-09-03T03:45:16.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 24,
+                    "position_id": 13,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:31:45.000000Z",
+                    "updated_at": "2023-08-29T02:31:45.000000Z"
+                },
+                {
+                    "id": 25,
+                    "position_id": 13,
+                    "title": "Melakukan inventarisasi program dan kinerja yang akan dilaksanakan sesuai ketentuan dan kebutuhan dalam rangka terlaksananya kegiatan dinas; 3.3. Melakukan evaluasi program dan kinerja yang akan dilaksanakan sesuai ketentuan dan kebutuhan agar terlaksananya kegiatan dinas",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:31:45.000000Z",
+                    "updated_at": "2023-08-29T02:31:45.000000Z"
+                },
+                {
+                    "id": 26,
+                    "position_id": 13,
+                    "title": "Mengkoordinasikan dengan unit-unit terkait dan atau instansi lain dalam rangka pelaksanaan program kegiatan agar program dapat terlaksana secara terpadu untuk mencapai hasil yang optimal",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:31:45.000000Z",
+                    "updated_at": "2023-08-29T02:31:45.000000Z"
+                },
+                {
+                    "id": 27,
+                    "position_id": 13,
+                    "title": "Mengevaluasi dan menyusun laporan secara berkala sesuai dengan prosedur dan ketentuan yang berlaku sebagai bahan penyusunan program berikutnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:31:45.000000Z",
+                    "updated_at": "2023-08-29T02:31:45.000000Z"
+                },
+                {
+                    "id": 28,
+                    "position_id": 13,
+                    "title": "Melaksanakan tugas kedinasan lainnya yang diperintahkan atasan baik secara tertulis maupun lisan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:31:45.000000Z",
+                    "updated_at": "2023-08-29T02:31:45.000000Z"
+                },
+                {
+                    "id": 29,
+                    "position_id": 13,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat petunjuk selanjutnya",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:31:45.000000Z",
+                    "updated_at": "2023-08-29T02:31:45.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Penyusun Rencana Kegiatan dan Anggaran",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan penyusunan rencana kegiatan dan anggaran sesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Subbagian Program, Informasi dan Hubungan Masyarakat.",
+            "created_at": "2023-08-29T02:34:10.000000Z",
+            "updated_at": "2023-09-03T03:45:03.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 30,
+                    "position_id": 14,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                },
+                {
+                    "id": 31,
+                    "position_id": 14,
+                    "title": "Menerima dan memeriksa bahan dan data yang terkait dengan penyusunan rencana kegiatan dan anggaran sesuai prosedur dalam rangka penyusunan rencana kegiatan dan anggaran",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                },
+                {
+                    "id": 32,
+                    "position_id": 14,
+                    "title": "Mengumpulkan dan mengklasilikasikan bahan dan data rencana kegiatan dan anggaran sesuai spesifikasi dan prosedur untuk memudahkan pencarian apabila diperlukan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                },
+                {
+                    "id": 33,
+                    "position_id": 14,
+                    "title": "Mempelajari dan mengkaji karakteristik, spesifikasi dan hal-hal yang terkait dengan rencana kegiatan dan anggaran sesuai prosedur dan ketentuan dalam rangka penyusunan rencana kegiatan dan anggaran",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                },
+                {
+                    "id": 34,
+                    "position_id": 14,
+                    "title": "Menyusun konsep penyusunan rencana kegiatan dan anggaran sesuai dengan hasil kajian dan prosedur untuk tercapainya sasaran yang diharapkan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                },
+                {
+                    "id": 35,
+                    "position_id": 14,
+                    "title": "Mengevaluasi proses penyusunan rencana kegiatan dan anggaran sesuai prosedur sebagai bahan perbaikan dan kesempurnaan tercapainya kegiatan; 3.7 Melaksanakan tugas kedinasan lainnya yang diperintahkan atasan baik secara tertulis maupun lisan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                },
+                {
+                    "id": 36,
+                    "position_id": 14,
+                    "title": "Melaporkan hasil pelaksanaan tugas sesuai prosedur yang berlaku sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:34:10.000000Z",
+                    "updated_at": "2023-08-29T02:34:10.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "2.1.4 Pengelola Monitoring dan Evaluasi",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengelolaan monitoring dan evaluasisesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Subbagian Program, Informasi dan Hubungan Masyarakat.",
+            "created_at": "2023-08-29T02:36:24.000000Z",
+            "updated_at": "2023-09-03T03:44:39.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 37,
+                    "position_id": 15,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 38,
+                    "position_id": 15,
+                    "title": "Melakukan inventarisasi bahan monitoring dan evaluasi yang akan dilaksanakan sesuai dengan ketentuan dan kebutuhan dalam rangka terlaksananya kegiatan dinas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 39,
+                    "position_id": 15,
+                    "title": "Mengumpulkan dan mengklasifikasikan bahan monitoring dan evaluasi sesuai spesifikasi dan prosedur untuk memudahkan pencarian apabila diperlukan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 40,
+                    "position_id": 15,
+                    "title": "Mempelajari dan mengkaji karakteristik, spesifikasi dan hal-hal yang terkait dengan monitoring dan evaluasi sesuai prosedur dan ketentuan dalam rangka penyusunan rencana kegiatan dan anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 41,
+                    "position_id": 15,
+                    "title": "Menyusun konsep monitoring dan evaluasi kegiatan sesuai dengan hasil kajian dan prosedur untuk tercapainya sasaran yang diharapkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 42,
+                    "position_id": 15,
+                    "title": "Mengevaluasi proses penyusunan monitoring dan evaluasi kegiatan sesuai prosedur sebagai bahan perbaikan dan kesempurnaan tercapainya kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 43,
+                    "position_id": 15,
+                    "title": "Melaksanakan tugas kedinasan lainnya yang diperintahkan atasan baik secara tertulis maupun lisan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                },
+                {
+                    "id": 44,
+                    "position_id": 15,
+                    "title": "Melaporkan basil pelaksanaan tugas sesuai prosedur yang berlaku sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:36:24.000000Z",
+                    "updated_at": "2023-08-29T02:36:24.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "2.1.5 Pengelola Data Administrasi dan Verifikasi",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengolahan data administrasi dan verifikasisesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Subbagian Program, Informasi dan Hubungan Masyarakat.",
+            "created_at": "2023-08-29T02:38:56.000000Z",
+            "updated_at": "2023-09-03T03:44:31.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 45,
+                    "position_id": 16,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 46,
+                    "position_id": 16,
+                    "title": "Menyiapkan bahan\/konsep pelaksanaan pengumpulan data administrasi dan verifikasi sesuai dengan sasaran dalam rangka kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 47,
+                    "position_id": 16,
+                    "title": "Mengumpulkan dan mengklasifikasikan serta menginput dan mengolah data administrasi dan verifikasisesuai spesifikasi dan prosedur untuk memudahkan pencarian apabila diperlukan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 48,
+                    "position_id": 16,
+                    "title": "Memverifikasi dan mengkonfirmasi data administrasi dan verifikasi sesuai prosedur dan ketentuan dalam rangka penyusunan rencana kegiatan dan anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 49,
+                    "position_id": 16,
+                    "title": "Menyajikan data administrasi dan verifikasi sesuai ketentuan dan arahan atasan agar data dapat disajikan bagi yang membutuhkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 50,
+                    "position_id": 16,
+                    "title": "Menyimpan data administrasi dan verifikasi sesuai dengan ketentuan agar mudah ditemukan dan digunakan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 51,
+                    "position_id": 16,
+                    "title": "Melaksanakan tugas kedinasan lainnya yang diperintahkan atasan balk secara tertulis maupun lisan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                },
+                {
+                    "id": 52,
+                    "position_id": 16,
+                    "title": "Melaporkan hasil pelaksanaan tugas sesuai prosedur yang berlaku sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:38:56.000000Z",
+                    "updated_at": "2023-08-29T02:38:56.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Pengelola Data",
+            "description": null,
+            "summary_tasks": "Mengumpulkan, mengolah dan menyajikan data dan informasi peternakansesuai dengan petunjuk dan ketentuan untuk mendukung kelancaran tugas pokok Subbagian Program, Informasi dan Hubungan Masyarakat.",
+            "created_at": "2023-08-29T02:41:12.000000Z",
+            "updated_at": "2023-09-03T03:44:23.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 53,
+                    "position_id": 17,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 54,
+                    "position_id": 17,
+                    "title": "Menyiapkan bahan\/konsep instrument pelaksanaan pengumpulan data dan informasi peternakan sesuai dengan sasaran\/responden dalam rangka kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 55,
+                    "position_id": 17,
+                    "title": "Mengumpulkan, menginput serta mengolah data dan informasi peternakan dari unit kerja terkai t dan atau sumber lain sesuai ketentuan dan kebutuhan dalam rangka kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 56,
+                    "position_id": 17,
+                    "title": "Memverifikasi dan mengkonfirmasi data dan informasi peternakan sesuai ketentuan untuk keakuratan data;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 57,
+                    "position_id": 17,
+                    "title": "Menyajikan data dan informasi peternakan sesuai ketentuan dan arahan atasan agar terpublikasinya data dan informasi peternakan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 58,
+                    "position_id": 17,
+                    "title": "Menyimpan data dan informasi peternakan sesuai dengan ketentuan agar mudah ditemukan dan digunakan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 59,
+                    "position_id": 17,
+                    "title": "Melaksanakan tugas kedinasan lainnya yang diberikan atasan agar tugas terbagi habis;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                },
+                {
+                    "id": 60,
+                    "position_id": 17,
+                    "title": "Melaporkan hasil pelaksanaan tugas sesuai prosedur yang berlaku ebagai bahan evaluasi dan pertanggungjawaban",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:41:12.000000Z",
+                    "updated_at": "2023-08-29T02:41:12.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Kepala Sub Bagian Keuangan dan Pengelolaan Aset",
+            "description": null,
+            "summary_tasks": "Memimpin Sub Bagian keuangan dan pengelolaan aset mempunyai tugas melakukan urusan pengelolaan administrasi keuangan, penyusunan anggaran, verivikasi, perbendaharaan, pembukuan, pelaporan realisasi fisik dan keuangan serta urusan pengelolaan aset milik negara, sesuai dengan peraturan perundang-undangan yang berlaku untuk mendukung kelancaran tugas pokok Sekretariat.",
+            "created_at": "2023-08-29T02:43:58.000000Z",
+            "updated_at": "2023-08-29T09:27:18.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 61,
+                    "position_id": 18,
+                    "title": "Membuat rencana kerja berdasarkan peraturan yang berlaku untuk pedoman pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                },
+                {
+                    "id": 62,
+                    "position_id": 18,
+                    "title": "Membagi tugas kepada bawahan sesuai bidang masing-masing agar memahami tugasnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                },
+                {
+                    "id": 63,
+                    "position_id": 18,
+                    "title": "Memberi petunjuk kepada bawahan berdasarkan pembagian tugas agar pelaksanaannya dapat beijalan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                },
+                {
+                    "id": 64,
+                    "position_id": 18,
+                    "title": "Mengkoordinasikan dan mengevaluasi pelaksanaan pekerjaan bawahan dan mengecek hasilnya secara langsung, atau melalui laporan untuk mengetahui kelancaran serta hambatan yang terjadi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                },
+                {
+                    "id": 65,
+                    "position_id": 18,
+                    "title": "Membina dan memotivasi bawahan secara berkala dalam upaya peningkatan produktivitas kerja dan pengembangan karier;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                },
+                {
+                    "id": 66,
+                    "position_id": 18,
+                    "title": "Mengelola administrasi keuangan, verifikasi dan perbendahzuL pembukuan dan akuntansi sesuai dengan dokumen anggaran untuk menghindari terjadinya penyimpangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                },
+                {
+                    "id": 67,
+                    "position_id": 18,
+                    "title": "Mengkoordinir pelaksanaan evaluasi berdasarkan kegiatan pengelolaan administrasi keuangan dalam rangka pelaporan realisasi fisik dan keuangan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T02:43:58.000000Z",
+                    "updated_at": "2023-08-29T02:43:58.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "2.1.1 Pengelola Penyusunan Peraturan",
+            "description": null,
+            "summary_tasks": "Mengelola penyusunan produk hukum dengan cara menyiapkan bahan, menyusun  program, mengendalikan, mengkoordinasikan, dan memeriksa serta mengevaluasi sesuai prosedur dan ketentuan yang berlaku, agar pelaksanaan pekerjaan dapat  berjalan sesuai dengan yang diinginkan untuk mendukung kelancaran tugas pokok Sub Bagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T06:20:20.000000Z",
+            "updated_at": "2023-09-03T03:45:31.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 71,
+                    "position_id": 19,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan         ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 72,
+                    "position_id": 19,
+                    "title": "Menyusun program kerja, bahan dan alat perlengkapan penyusunan produk         hukum sesuai dengan prosedur dan ketentuan yang berlaku, agar dalam         pelaksanaan pekerjaan dapat berjalan dengan baik;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 73,
+                    "position_id": 19,
+                    "title": "Memantau penyusunan produk hukum sesuai dengan bidang tugasnya, agar          dalam pelaksanaan terdapat kesesuaian dengan rencana awal;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 74,
+                    "position_id": 19,
+                    "title": "Melakukan penyusunan produk hukum, sesuai dengan prosedur dan          ketentuan yang berlaku, agar tidak terjadi penyimpangan dalam pelaksanaan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 75,
+                    "position_id": 19,
+                    "title": "Mengkoordinasikan dengan unit-unit terkait dan atau instansi lain sesuai          ketentuan dalam rangka tersusunnya produk hukum;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 76,
+                    "position_id": 19,
+                    "title": "Mengevaluasi dan menyusun laporan secara berkala, sesuai dengan prosedur         dan ketentuan yang berlaku sebagai bahan penyusunan produk hukum;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 77,
+                    "position_id": 19,
+                    "title": "Melaksanakan tugas kedinasan lain yang diperintahkan oleh pimpinan baik         secara tertulis maupun lisan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                },
+                {
+                    "id": 78,
+                    "position_id": 19,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat          petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T06:20:20.000000Z",
+                    "updated_at": "2023-08-29T06:20:20.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "2.2 Ka.Subbag Keuangan dan Pengelolaan Aset",
+            "description": null,
+            "summary_tasks": "Memimpin Sub Bagian keuangan dan pengelolaan aset mempunyai tugas melakukan urusan pengelolaan administrasi keuangan, penyusunan anggaran, verifikasi, perbendaharaan, pembukuan, pelaporan realisasi fisik dan keuangan serta urusan pengelolaan aset milik negara, sesuai dengan peraturan perundang-undangan yang berlaku untuk mendukung kelancaran tugas pokok Sekretariat.",
+            "created_at": "2023-08-29T07:37:48.000000Z",
+            "updated_at": "2023-08-29T07:37:48.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 81,
+                    "position_id": 21,
+                    "title": "Membuat rencana kerja berdasarkan peraturan yang berlaku untuk pedoman      pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                },
+                {
+                    "id": 82,
+                    "position_id": 21,
+                    "title": "Membagi tugas kepada bawahan sesuai bidang masing-masing agar       memahami tugasnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                },
+                {
+                    "id": 83,
+                    "position_id": 21,
+                    "title": "Memberi petunjuk kepada bawahan berdasarkan pembagian tugas agar       pelaksanaannya dapat berjalan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                },
+                {
+                    "id": 84,
+                    "position_id": 21,
+                    "title": "Mengkoordinasikan dan mengevaluasi pelaksanaan pekerjaan bawahan dan       mengecek hasilnya secara langsung, atau melalui laporan untuk mengetahui       kelancaran serta hambatan yang terjadi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                },
+                {
+                    "id": 85,
+                    "position_id": 21,
+                    "title": "Membina dan memotivasi bawahan secara berkala dalam upaya peningkatan       produktivitas kerja dan pengembangan karier;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                },
+                {
+                    "id": 86,
+                    "position_id": 21,
+                    "title": "Mengelola administrasi keuangan, verifikasi dan perbendahar       pembukuan dan akuntansi sesuai dengan dokumen anggaran untuk       menghindari terjadinya penyimpangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                },
+                {
+                    "id": 87,
+                    "position_id": 21,
+                    "title": "Mengkoordinir pelaksanaan evaluasi berdasarkan kegiatan pengelolaan       administrasi keuangan dalam rangka pelaporan realisasi fisik dan keuangan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:37:48.000000Z",
+                    "updated_at": "2023-08-29T07:37:48.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "2.2.1 Penyusun Laporan Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan proses penyusunan laporan keuangan sesuai dengan ketentuan untuk mendukung kelancaran tugas pokok Sub Bagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-29T07:49:19.000000Z",
+            "updated_at": "2023-08-29T07:49:19.000000Z",
+            "job_descs_count": 5,
+            "job_descs": [
+                {
+                    "id": 88,
+                    "position_id": 22,
+                    "title": "Memilah bahan dokumen keuangan sesuai dengan jenis dan sifatnya sebagai  bahan penyusunan laporan keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:49:19.000000Z",
+                    "updated_at": "2023-08-29T07:49:19.000000Z"
+                },
+                {
+                    "id": 89,
+                    "position_id": 22,
+                    "title": "Membuat laporan keuangan meliputi laporan realisasi anggaran sesuai dengan formulir yang telah ditentukan sebagai bahan pertanggungjawaban keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:49:19.000000Z",
+                    "updated_at": "2023-08-29T07:49:19.000000Z"
+                },
+                {
+                    "id": 90,
+                    "position_id": 22,
+                    "title": "Menyampaikan laporan keuangan kepada atasan untuk memenuhi permintaan pihak-pihak yang membutuhkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:49:19.000000Z",
+                    "updated_at": "2023-08-29T07:49:19.000000Z"
+                },
+                {
+                    "id": 91,
+                    "position_id": 22,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas  terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:49:19.000000Z",
+                    "updated_at": "2023-08-29T07:49:19.000000Z"
+                },
+                {
+                    "id": 92,
+                    "position_id": 22,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:49:19.000000Z",
+                    "updated_at": "2023-08-29T07:49:19.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "2.2.2 Pengolah Daftar Gaji",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pembuatan daftar gaji dan tunjangan berdasarkan ketentuan yang berlaku untuk kelancaran tugas pokok Sub Bagian Keuangan dan Pengelolaan  Aset.",
+            "created_at": "2023-08-29T07:53:39.000000Z",
+            "updated_at": "2023-08-29T07:53:39.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 93,
+                    "position_id": 23,
+                    "title": "Mengklasifikasi data pegawai berdasarkan data kepegawaian untuk                penyusunan konsep daftar gaji, tunjangan prestasi kerja, dan tunjangan operasional lainnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                },
+                {
+                    "id": 94,
+                    "position_id": 23,
+                    "title": "Membuat konsep daftar gaji, tunjangan prestasi kerja, dan tujuan                operasional lainnya sesuai dengan klasifikasi data untuk kelancaran  pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                },
+                {
+                    "id": 95,
+                    "position_id": 23,
+                    "title": "Menyampaikan konsep daftar gaji, tunjangan prestasi kerja, dan tunjangan operasional lainnya kepada atasan untuk ditindaklanjuti;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                },
+                {
+                    "id": 96,
+                    "position_id": 23,
+                    "title": "Menfinalisasikan daftar gaji, tunjangan prestasi kerja, dan tunjangan                operasional lainnya berdasarkan hasil koreksi atasan untuk ditandatangani  atasan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                },
+                {
+                    "id": 97,
+                    "position_id": 23,
+                    "title": "Menyerahkan daftar gaji, tunjangan prestasi kerja, dan tunjangan   operasional lainnya kepada bendaharawan pengeluaran untuk cliproses;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                },
+                {
+                    "id": 98,
+                    "position_id": 23,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas   terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                },
+                {
+                    "id": 99,
+                    "position_id": 23,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat  petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:53:39.000000Z",
+                    "updated_at": "2023-08-29T07:53:39.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "2.2.3 Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan penerimaan, penyimpanan dan pengeluaran uang baik yang bersumber dari APBA dan APBN sesuai ketentuan yang berlaku untuk mendukung kelancaran tugas pokok Subbagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-29T07:58:44.000000Z",
+            "updated_at": "2023-08-29T07:58:44.000000Z",
+            "job_descs_count": 12,
+            "job_descs": [
+                {
+                    "id": 100,
+                    "position_id": 24,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan   ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 101,
+                    "position_id": 24,
+                    "title": "Melakukan pencatatan anggaran sesuai dengan Dokumen Pelaksanaan  Anggaran (DPA) dalam rangka pengendalian anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 102,
+                    "position_id": 24,
+                    "title": "Membuat dan mengajukan surat perintah pembayaran (SPP) baik beban  tetap maupun beban sementara dalam rangka realisasi anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 103,
+                    "position_id": 24,
+                    "title": "Membayar setiap permintaan pembayaran\/tagihan yang telah memenuhi  persyaratan untuk kelancaran pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 104,
+                    "position_id": 24,
+                    "title": "Melaksanakan pembukuan keuangan anggaran langsung dan tidak langsung   sesuai ketentuan yang berlaku untuk tertibnya administrasi pembukuan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 105,
+                    "position_id": 24,
+                    "title": "Melakukan pemotongan atas perhitungan pajak sesuai ketentuan yang  berlaku untuk disetorkan ke Kas Negara;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 106,
+                    "position_id": 24,
+                    "title": "Mencatat dan menyusun penerimaan dan pengeluaran uang didalam formulir       daftar penerimaan dan pengeluaran yang telah ditetapkan sesuai prosedur   yang berlaku;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 107,
+                    "position_id": 24,
+                    "title": "Melayani permintaan uang muka berdasarkan surat perintah untuk       kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 108,
+                    "position_id": 24,
+                    "title": "Mengajukan surat perintah pembayaran ke KPPN dan BKA berdasarkan       surat perintah untuk mengurus keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 109,
+                    "position_id": 24,
+                    "title": "Melakukan pembayaran atas tagihan-tagihan berdasarkan surat dinas untuk       kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 110,
+                    "position_id": 24,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas       terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                },
+                {
+                    "id": 111,
+                    "position_id": 24,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat       petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T07:58:44.000000Z",
+                    "updated_at": "2023-08-29T07:58:44.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "2.2.4 Pengelola Barang Milik Negara",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengelolaan dan pemeliharaan barang berdasarkan petunjuk dan ketentuan yang berlaku untuk mendukung kelancaran tugas pokok Sub Bagian   Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-29T08:02:06.000000Z",
+            "updated_at": "2023-08-29T08:02:06.000000Z",
+            "job_descs_count": 10,
+            "job_descs": [
+                {
+                    "id": 112,
+                    "position_id": 25,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan            ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 113,
+                    "position_id": 25,
+                    "title": "Mempersiapkan bahan dan peralatan sesuai kebutuhan untuk dilakukan          pengelolaan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 114,
+                    "position_id": 25,
+                    "title": "Melakukan penyiapan data barang persediaan dan pengelolaan barang milik           negara sesuai hasil pengumpulan untuk dilakukan pengolahan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 115,
+                    "position_id": 25,
+                    "title": "Melakukan penyusunan bahan barang persediaan dan pengelolaan barang           milik negara berdasarkan hasil penyiapan untuk dilakukan penyusunan           laporan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 116,
+                    "position_id": 25,
+                    "title": "Melakukan koordinasi dengan unit kerja dalarn rangka penyusunan laporan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 117,
+                    "position_id": 25,
+                    "title": "Melakukan penyusunan laporan barang persediaan dan pengelolaan barang           milik negara sesuai hasil penyusunan bahan untuk ditindaklanjuti;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 118,
+                    "position_id": 25,
+                    "title": "Mengolah data aplikasi SIMAK(Sistem informasi manajemen dan akutansi           BMN dan SIMAN (Sistem informasi manajemen aset negara) untuk rekonsialisasi dengan pihak KPKNL",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 119,
+                    "position_id": 25,
+                    "title": "Melakukan inventarisasi aset APBN, revaluasi BMN bangunan dan irigasi   dengan KPKNL dan pengajuan penghapusan aset",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 120,
+                    "position_id": 25,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas    terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                },
+                {
+                    "id": 121,
+                    "position_id": 25,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat   petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:02:06.000000Z",
+                    "updated_at": "2023-08-29T08:02:06.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "2.2.5 Penyusun Kebutuhan Barang",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan penerimaan, pengumpulan, pengklasifikasian dan penelahaan data objek kerja di bidang kebutuhan barang inventaris untuk mendukung kelancaran tugas pokok Sub Bagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-29T08:04:56.000000Z",
+            "updated_at": "2023-08-29T08:04:56.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 122,
+                    "position_id": 26,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan         ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 123,
+                    "position_id": 26,
+                    "title": "Mengumpulkan data melalui laporan sesuai dengan prosedur dan ketentuan         yang berlaku agar tertib administrasi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 124,
+                    "position_id": 26,
+                    "title": "Mencatat dan menjumlah jenis dan nama data laporan kedalam media tertentu          sesuai dengan prosedur dan ketentuan yang berlalcu agar mengetahui kondisi          yang sebenarnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 125,
+                    "position_id": 26,
+                    "title": "Membuat daftar inventaris menurut jenis merek tahun pembuatan, pembelian,          dan nomor kode dengan menggunakan sarana sesuai ketentuan yang berlaku         agar mudah diternukan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 126,
+                    "position_id": 26,
+                    "title": "Membuat susunan nomor dan kode inventaris agar dapat memudahkan          pengecekan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 127,
+                    "position_id": 26,
+                    "title": "Menyusun laporan triwulan dan laporan tahunan sesuai dengan prosedur dan          ketentuan yang berlaku agar tidak terjadi kesalahan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 128,
+                    "position_id": 26,
+                    "title": "Melaksanakan tugas kedinasan lain yang diperintahkan pimpinan baik tertulis          maupun lisan; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                },
+                {
+                    "id": 129,
+                    "position_id": 26,
+                    "title": "Melaporkan hasil pelaksanaan tugas sesuai dengan prosedur yang berlaku          sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:04:56.000000Z",
+                    "updated_at": "2023-08-29T08:04:56.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "2.2.6 Pengadministrasian Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan mengumpulkan bahan, mengolah dan menyusun naskah  usulan perencanaan program\/rencana kerja\/anggaran berdasarkan ketentuan yang  berlaku untuk mendukung kelancaran tugas pokok Sub Bagian Keuangan dan  Pengelolaan Aset.",
+            "created_at": "2023-08-29T08:10:00.000000Z",
+            "updated_at": "2023-08-29T08:10:00.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 130,
+                    "position_id": 27,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 131,
+                    "position_id": 27,
+                    "title": "Menyiapkan bahan Penyusunan program\/rencana kerja anggaran dengan cara mengumpulkan usulan-usulan kegiatan demi kelancartan penyusunan program\/rencana kerja\/anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 132,
+                    "position_id": 27,
+                    "title": "Mengolah bahan ususlan menjadi program\/rencana kerja anggaran  menggunakan aplokasi computer untuk diusulkan menjadi program\/rencana  kerja anggaran ;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 133,
+                    "position_id": 27,
+                    "title": "Menyiapkan Bahan Penyusunan program\/rencana kerja\/anggaran dengan                           cara mengumpulkarim notulen rapat perencanaan dan usulan-usulan dari                           seksi\/subbag demi kelancaran penyusunan program\/rencana kerja anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 134,
+                    "position_id": 27,
+                    "title": "Mengolah bahan usulan dan menyusun naskah program\/rencana                           kerja\/anggaran menggunakan aplokasi RKA-KL agar tersusun rencana                           kerja\/anggaran yang baik;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 135,
+                    "position_id": 27,
+                    "title": "Menyiapkan Rencana Anggaran Biaya (RAB) sesuai kaidah yang berlaku                           sebagai kelengkapan usulan program\/rencana kerja anggaran ;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 136,
+                    "position_id": 27,
+                    "title": "Menyiapkan Term Of Refence (TOR) sesuai kaidah yang berlaku sebagai                           kelengkapan usulan program\/rencana kerja anggaran; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                },
+                {
+                    "id": 137,
+                    "position_id": 27,
+                    "title": "Melaporkan hasil pelaksanaan tugas sesuai dengan prosedur yang berlaku                           sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:10:00.000000Z",
+                    "updated_at": "2023-08-29T08:10:00.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "2.2.7 Pengelola Kendaraan Dinas",
+            "description": null,
+            "summary_tasks": "Melakukan pengelolaan kenderaan dinas dan membuat laporan kenderaan dinas sertya mengajukan rencana operasional biaya kenderaan berdasarkan ketentuan  yang berlaku untuk mendukung kelancaran tugas pokok Sub Bagian Keuangan dan  Pengelolaan Aset.",
+            "created_at": "2023-08-29T08:12:38.000000Z",
+            "updated_at": "2023-08-29T08:12:38.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 138,
+                    "position_id": 28,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan       ketentuan untuk menghindari kesalahan dalarn pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                },
+                {
+                    "id": 139,
+                    "position_id": 28,
+                    "title": "Bertanggung jawab dibidang pengelolaan kenderaan dinas sesuai dengan       ketentuan yang berlaku;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                },
+                {
+                    "id": 140,
+                    "position_id": 28,
+                    "title": "Membuat laporan kenderaan dinas sesuai dengan perjalanan yang ditempuh        guna perawatan secara berkala ;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                },
+                {
+                    "id": 141,
+                    "position_id": 28,
+                    "title": "Mengajukan rencana operasional biaya kenderaan dinas sesuai dengan        prosedur dan ketentuan yang beriaku;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                },
+                {
+                    "id": 142,
+                    "position_id": 28,
+                    "title": "Mengawasi\/mengecek kenderaan dinas agar siap pakai untuk kegiatan tugas        kantor.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                },
+                {
+                    "id": 143,
+                    "position_id": 28,
+                    "title": "Melaksanakan tugas kedinasan lain yang diperintahkan pimpinan baik tertulis        maupun lisan; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                },
+                {
+                    "id": 144,
+                    "position_id": 28,
+                    "title": "Melaporkan hasil pelaksanaan tugas sesuai dengan prosedur yang berlaku        sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:12:38.000000Z",
+                    "updated_at": "2023-08-29T08:12:38.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "2.3.1 Pengelola Disiplin Pegawai",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengelolaan kehadiran pegawai sesuai dengan petunjuk untuk mendukung kelancaran tugas pokok Subbagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T08:17:11.000000Z",
+            "updated_at": "2023-08-29T08:17:11.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 145,
+                    "position_id": 29,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:17:11.000000Z",
+                    "updated_at": "2023-08-29T08:17:11.000000Z"
+                },
+                {
+                    "id": 146,
+                    "position_id": 29,
+                    "title": "Melakukan penyiapan daftar hadir pegawai sesuai ketentuan dalam rangka tertibnya administrasi kepegawaian;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:17:11.000000Z",
+                    "updated_at": "2023-08-29T08:17:11.000000Z"
+                },
+                {
+                    "id": 147,
+                    "position_id": 29,
+                    "title": "Melakukan rekapitulasi daftar hadir pegawai sccara rutin dalam rangka Ppeningkatan disiplin pegawai;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:17:11.000000Z",
+                    "updated_at": "2023-08-29T08:17:11.000000Z"
+                },
+                {
+                    "id": 148,
+                    "position_id": 29,
+                    "title": "Melaporkan hasil rekapitulasi kehadiran pegawai kepada atasan untuk di  tindaklanjuti;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:17:11.000000Z",
+                    "updated_at": "2023-08-29T08:17:11.000000Z"
+                },
+                {
+                    "id": 149,
+                    "position_id": 29,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas terbagi habis;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:17:11.000000Z",
+                    "updated_at": "2023-08-29T08:17:11.000000Z"
+                },
+                {
+                    "id": 150,
+                    "position_id": 29,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:17:11.000000Z",
+                    "updated_at": "2023-08-29T08:17:11.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "2.3.2 Pengelola Pengadministrasian Kepegawaian",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengelolaan Pengadminitrasian sesuai dengan petunjuk untukmendukung kelancaran tugas pokok Subbagian Hulkum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T08:21:44.000000Z",
+            "updated_at": "2023-08-29T08:21:44.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 151,
+                    "position_id": 30,
+                    "title": "empelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                },
+                {
+                    "id": 152,
+                    "position_id": 30,
+                    "title": "Melakukan inventarisasi peningkatan kesejahteraan pegawai melalui cuti pemberian tanda penghargaan, taspen, karis dan karsu serta askes untuk kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                },
+                {
+                    "id": 153,
+                    "position_id": 30,
+                    "title": "Memproses usul pemensiunan pegawai sesuai dengan ketentuan dan kebutuhan dalam rangka penyelesaian pemeberian hak-hak kepegawaian;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                },
+                {
+                    "id": 154,
+                    "position_id": 30,
+                    "title": "Melakukan penyusunan konsep surat kepegawaian sesuai dengan jenis  kebutuhan untuk kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                },
+                {
+                    "id": 155,
+                    "position_id": 30,
+                    "title": "Melayani kebutuhan peningkatan kesejahteraan pegawai melalui proses  sesuai dengan ketentuan dan kebutuhan dalam rangka penyelesaian pemberian hak-hak kepegawaian;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                },
+                {
+                    "id": 156,
+                    "position_id": 30,
+                    "title": "Menata dokumen kepegawaian sesuai dengan ketentuan sehingga tertib administrasi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                },
+                {
+                    "id": 157,
+                    "position_id": 30,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat  petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:21:44.000000Z",
+                    "updated_at": "2023-08-29T08:21:44.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "2.3.3 Penyusunan Rencana Rumah Tangga dan Perlengkapan Pegawai",
+            "description": null,
+            "summary_tasks": "Melakukan proses penyusunan bahan informasi dan publikasi kegiatan dinas sesuai dengan ketentuan dan kebutuhan untuk mendukung kelancaran fugas pokok Subbagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T08:31:05.000000Z",
+            "updated_at": "2023-08-29T08:31:05.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 158,
+                    "position_id": 31,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:31:05.000000Z",
+                    "updated_at": "2023-08-29T08:31:05.000000Z"
+                },
+                {
+                    "id": 159,
+                    "position_id": 31,
+                    "title": "Menghimpun bahan dan data rencana kebutuhan rumah tangga dan  perlengkapan sesuai masukan dalam rangka tersusunnya kebutuhan rumah  tangga dan perlengkapan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:31:05.000000Z",
+                    "updated_at": "2023-08-29T08:31:05.000000Z"
+                },
+                {
+                    "id": 160,
+                    "position_id": 31,
+                    "title": "Melakukan proses penyusunan rencana kebutuhan rumah tangga dan perlengkapan sesuai ketentuan dan kebutuhan dalam rangka terpenuhi  kebutuhan rumah tangga dan perlengkapan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:31:05.000000Z",
+                    "updated_at": "2023-08-29T08:31:05.000000Z"
+                },
+                {
+                    "id": 161,
+                    "position_id": 31,
+                    "title": "Menyampaikan bahan untuk publikasi kepada atasan untuk mendapat  koreksi dan penyempurnaan lebih lanjut;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:31:05.000000Z",
+                    "updated_at": "2023-08-29T08:31:05.000000Z"
+                },
+                {
+                    "id": 162,
+                    "position_id": 31,
+                    "title": "Menyempurnakan rencana kebutuhan rumah tangga dan perlengkapan  dinas sesuai dengan hasil koreksi atasan untuk dapat difinalkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:31:05.000000Z",
+                    "updated_at": "2023-08-29T08:31:05.000000Z"
+                },
+                {
+                    "id": 163,
+                    "position_id": 31,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:31:05.000000Z",
+                    "updated_at": "2023-08-29T08:31:05.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "2.3.4 Administrasi Persuratan",
+            "description": null,
+            "summary_tasks": "Mengadministrasikan surat masuk dan surat keluar berlaku untuk mendukung kelancaran tugas Kepegawaian dan Umum.",
+            "created_at": "2023-08-29T08:37:22.000000Z",
+            "updated_at": "2023-08-29T08:37:22.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 164,
+                    "position_id": 32,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasen sesuai dengan an dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:37:22.000000Z",
+                    "updated_at": "2023-08-29T08:37:22.000000Z"
+                },
+                {
+                    "id": 165,
+                    "position_id": 32,
+                    "title": "Mencatat surat masuk dan keluar sesuai dengan jens dan sifatnya untuk memudahlan penemuan kembali apabila sewaktu-waktu diperlukan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:37:22.000000Z",
+                    "updated_at": "2023-08-29T08:37:22.000000Z"
+                },
+                {
+                    "id": 166,
+                    "position_id": 32,
+                    "title": "Monoatat surat keluar sesuai dengan petunjuk untuk ditandatangani oleh pimpinan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:37:22.000000Z",
+                    "updated_at": "2023-08-29T08:37:22.000000Z"
+                },
+                {
+                    "id": 167,
+                    "position_id": 32,
+                    "title": "enata arsip surat  administrasi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:37:22.000000Z",
+                    "updated_at": "2023-08-29T08:37:22.000000Z"
+                },
+                {
+                    "id": 168,
+                    "position_id": 32,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:37:22.000000Z",
+                    "updated_at": "2023-08-29T08:37:22.000000Z"
+                },
+                {
+                    "id": 169,
+                    "position_id": 32,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:37:22.000000Z",
+                    "updated_at": "2023-08-29T08:37:22.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "2.3.5 Pranata Kearsipan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan penataan arsip sesuai dengan petunjuk untuk mendukung tugas pokok Subbagian Hukum, Kepegawaian dan Umum.",
+            "created_at": "2023-08-29T08:42:20.000000Z",
+            "updated_at": "2023-08-29T08:42:20.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 170,
+                    "position_id": 33,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                },
+                {
+                    "id": 171,
+                    "position_id": 33,
+                    "title": "Menerima naskah dinas berdasarkan masukan unit kerja untuk kelancarazn  pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                },
+                {
+                    "id": 172,
+                    "position_id": 33,
+                    "title": "Memilah-milah naskah dinas sesuai dengan jenis dan sifatnya untuk memudahkan dalam pengarsipan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                },
+                {
+                    "id": 173,
+                    "position_id": 33,
+                    "title": "Mengarsipkan naskah dinas berdasarkan hasil pemilahan untuk memudahkan penemuan kembali sewaktu-waktu dibutuhkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                },
+                {
+                    "id": 174,
+                    "position_id": 33,
+                    "title": "Memelihara dan merawat naskah dinas sesuai dengan ketentuan untuk  dapat dipergunakan dalam waktu yang lebih lama;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                },
+                {
+                    "id": 175,
+                    "position_id": 33,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas terbagi habis",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                },
+                {
+                    "id": 176,
+                    "position_id": 33,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk \u2018mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:42:20.000000Z",
+                    "updated_at": "2023-08-29T08:42:20.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "2.3.6 Sekretaris",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan yang meliputi penyiapan bahan dan pengaturan jadwal pimpinan sesuai ketentuan dan kebutuhan untuk kelancaran pelaksanaan tugas pimpinan.",
+            "created_at": "2023-08-29T08:44:43.000000Z",
+            "updated_at": "2023-08-29T08:44:43.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 177,
+                    "position_id": 34,
+                    "title": "Mempelajari tugas dan. petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                },
+                {
+                    "id": 178,
+                    "position_id": 34,
+                    "title": "Menerima, memeriksa, dan menyampaikan surat masuk dan surat keluar kepada pimpinan untuk arahan lebih lanjut;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                },
+                {
+                    "id": 179,
+                    "position_id": 34,
+                    "title": "Menerima dan memeriksa konsep surat dari unit pengolah sesuai ketentuan untuk mengetahui kebenaran dan kelengkapannya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                },
+                {
+                    "id": 180,
+                    "position_id": 34,
+                    "title": "Menyampaikan konsep surat yang telah sesuai dengan ketentuan kepada  pimpinan untuk disahkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                },
+                {
+                    "id": 181,
+                    "position_id": 34,
+                    "title": "Membuat konsep surat dan dokumen lain sesuai arahan pimpinan untuk kelancaran pelaksanaan tugas pimpinan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                },
+                {
+                    "id": 182,
+                    "position_id": 34,
+                    "title": "Mencatat kegiatan-kegiatan pimpinan sesuai ketentuan untuk kelancaran pelaksanaan tugas pimpinan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                },
+                {
+                    "id": 183,
+                    "position_id": 34,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas  terbagi habis;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:44:43.000000Z",
+                    "updated_at": "2023-08-29T08:44:43.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "2.3.7 Pengelola Perpustakaan",
+            "description": null,
+            "summary_tasks": "Melakukan pemberian layanan peminjaman, pemeliharaan, dan perawatan koleksi perpustakaan sesuai ketentuan dan kebutuhan untuk mendukung kelancaran tugas pokok Sub Bagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T08:47:35.000000Z",
+            "updated_at": "2023-08-29T08:47:35.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 184,
+                    "position_id": 35,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                },
+                {
+                    "id": 185,
+                    "position_id": 35,
+                    "title": "Memberikan layanan pinjaman koleksi perpustakaan sesuai dengan ketentuan untuk kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                },
+                {
+                    "id": 186,
+                    "position_id": 35,
+                    "title": "Melakukan penataan koleksi perpustakaan sesuai dengan kodifikasi untuk mempermudah dalam pencarian dan pengembalian;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                },
+                {
+                    "id": 187,
+                    "position_id": 35,
+                    "title": "Melaksanakan pemeliharaan dan perawatan koleksi perpustakaan sesuai  dengan ketentuan dan kebutuhan agar koleksi perpustakaan terawat dan  terpelihara;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                },
+                {
+                    "id": 188,
+                    "position_id": 35,
+                    "title": "Melakukan penyusunan laporan  bahan pertanggungjawaban kepada atasan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                },
+                {
+                    "id": 189,
+                    "position_id": 35,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas  peminjaman koleksi perpustakaan sebagai  terbagi habis;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                },
+                {
+                    "id": 190,
+                    "position_id": 35,
+                    "title": "Membuat laporan hasil pel petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:47:35.000000Z",
+                    "updated_at": "2023-08-29T08:47:35.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "2.3.8 Pengemudi",
+            "description": null,
+            "summary_tasks": "Mengoperasionalkan, mcmcriksa, clan merawat scrta mclaporkan segala kerusakaan  kendaraan dinas sesuai dengan petunjuk untuk rnendukung kelancaran pelaksanaan tugas Subbagian Hukum, Kepegawaian dan Umum.",
+            "created_at": "2023-08-29T08:49:44.000000Z",
+            "updated_at": "2023-08-29T08:49:44.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 191,
+                    "position_id": 36,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan           ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                },
+                {
+                    "id": 192,
+                    "position_id": 36,
+                    "title": "Memeriksa kelengkapan dan keadaan kendaraan dinas sesuai petunjuk yang           ada agar dapat dikendarai dengan baik;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                },
+                {
+                    "id": 193,
+                    "position_id": 36,
+                    "title": "Mengemudikan kendaraan dinas sesuai ketentuan dan petunjuk atasan           untuk optimalisasi pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                },
+                {
+                    "id": 194,
+                    "position_id": 36,
+                    "title": "Merawat kendaraan dinas sesuai dengan kebutuhan agar penggunaannya           lebih lama;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                },
+                {
+                    "id": 195,
+                    "position_id": 36,
+                    "title": "Melaporkan kerusakan kendaraan serta memeriksa dokumen kendaraan           (STNK\/Buku KIR) yang akan habis masa berlakunya sesuai ketentuan dan           kebutuhan agar kendaraan siap pakai;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                },
+                {
+                    "id": 196,
+                    "position_id": 36,
+                    "title": "Melaksanakan tugas kedinasan lainnya yang diberikan atasan agar tugas           terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                },
+                {
+                    "id": 197,
+                    "position_id": 36,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat           petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:49:44.000000Z",
+                    "updated_at": "2023-08-29T08:49:44.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "2.3.9 Petugas Keamanan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pengamanan kantor sesuai dengan petunjuk untuk  inendukung kelanearan tugas pokok Sub Bagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T08:52:59.000000Z",
+            "updated_at": "2023-08-29T08:52:59.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 198,
+                    "position_id": 37,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan        ketentuan untuk menghindari kesalahan dalarn pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:52:59.000000Z",
+                    "updated_at": "2023-08-29T08:52:59.000000Z"
+                },
+                {
+                    "id": 199,
+                    "position_id": 37,
+                    "title": "Menaikkan dan menurunkan bendera merah putih sesuai dengan ketentuan        untuk terjaganya identitas lembaga pemerintahan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:52:59.000000Z",
+                    "updated_at": "2023-08-29T08:52:59.000000Z"
+                },
+                {
+                    "id": 200,
+                    "position_id": 37,
+                    "title": "Memeriksa ruang kerja setelah jam kerja selesai sesuai dengan ketentuan        untuk menghindari terjadinya kehilangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:52:59.000000Z",
+                    "updated_at": "2023-08-29T08:52:59.000000Z"
+                },
+                {
+                    "id": 201,
+                    "position_id": 37,
+                    "title": "Melakukan penjagaan kantor dengan melakukan patroli sesuai dengan        jadwal agar keamanan kantor tetap terkendali;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:52:59.000000Z",
+                    "updated_at": "2023-08-29T08:52:59.000000Z"
+                },
+                {
+                    "id": 202,
+                    "position_id": 37,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas        terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:52:59.000000Z",
+                    "updated_at": "2023-08-29T08:52:59.000000Z"
+                },
+                {
+                    "id": 203,
+                    "position_id": 37,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat        petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:52:59.000000Z",
+                    "updated_at": "2023-08-29T08:52:59.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "2.3.10 Teknisi Peralatan, Listrik dan Elektronika",
+            "description": null,
+            "summary_tasks": "Mclakukan kcgiatan yang mcliputi pcmasangan, perbaikan, dan pcngecekan scrta  pemcliharaan peralatan, listrik, dan elektronika sesuai ketentuan dan kebutuhan  agar terhindar dari permasalahan untuk mendukung kelancaran tugas pokok Sub   Bagian Hukum, Kepegawaian, dan Umum.",
+            "created_at": "2023-08-29T08:55:33.000000Z",
+            "updated_at": "2023-08-29T08:55:33.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 204,
+                    "position_id": 38,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan            ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                },
+                {
+                    "id": 205,
+                    "position_id": 38,
+                    "title": "Memelihara dan mengontrol peralatan, listrik, dan elektronika sesuai            ketentuan dan kebutuhan agar terhindar dari gangguan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                },
+                {
+                    "id": 206,
+                    "position_id": 38,
+                    "title": "Menginventarisir dan mencatat permasalahan sesuai kebutuhan untuk              menghindari kerusakan peralatan, listrik dan elektronika;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                },
+                {
+                    "id": 207,
+                    "position_id": 38,
+                    "title": "Menangani kebutuhan kelengkapan alat-alat elektronika sesuai ketentuan             untuk kelancaran operasional;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                },
+                {
+                    "id": 208,
+                    "position_id": 38,
+                    "title": "Melakukan service\/perawatan peralatan, listrik, dan elektronika secara             berkala untuk kelacaran operasional;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                },
+                {
+                    "id": 209,
+                    "position_id": 38,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas             terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                },
+                {
+                    "id": 210,
+                    "position_id": 38,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat    petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:55:33.000000Z",
+                    "updated_at": "2023-08-29T08:55:33.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "2.3.11 Pramu Kebersihan",
+            "description": null,
+            "summary_tasks": "Mclakukan kcgiatan penyiapan peralatan dan menjaga kebersihan sesuai ketentuan untuk mendukung kelancaran tugas pokok Sub Bagian Hukum, Kepegawaian, dan  Umum.",
+            "created_at": "2023-08-29T08:57:46.000000Z",
+            "updated_at": "2023-08-29T08:57:46.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 211,
+                    "position_id": 39,
+                    "title": "Mernpelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan        ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                },
+                {
+                    "id": 212,
+                    "position_id": 39,
+                    "title": "Menginventarisir dan mencatat permasalahan kebutuhan dalam        pemeliharaan taman dan kebersihan lingkungan rumah tangga sesuai        rencana yang telah ditetapkan untuk lancarnya operasional pemeliharaan        kebersihan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                },
+                {
+                    "id": 213,
+                    "position_id": 39,
+                    "title": "Mengajukan segala keperluan pemeliharaan taman dan lingkungan rumah        tangga sesuai kebutuhan untuk diproses.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                },
+                {
+                    "id": 214,
+                    "position_id": 39,
+                    "title": "Memelihara dan menjaga taman dan kebersihan rumah tangga sesuai        petunjuk ditetapkan untuk terciptanya kebersihan dan keindahan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                },
+                {
+                    "id": 215,
+                    "position_id": 39,
+                    "title": "Memberikan informasi kepada atasan terhadap permasalahan yang dapat        menyebabkan berkurangnya kebersihan dan keindahan lingkungan rumah        tangga;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                },
+                {
+                    "id": 216,
+                    "position_id": 39,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas        terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                },
+                {
+                    "id": 217,
+                    "position_id": 39,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat        petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:57:46.000000Z",
+                    "updated_at": "2023-08-29T08:57:46.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "2.3.12 Ajudan",
+            "description": null,
+            "summary_tasks": "Melakukan pengecekan jadwal, persiapan dan pendampingan pada kegiatan  pimpinan untuk kelancaran pelaksanaan tugas.",
+            "created_at": "2023-08-29T08:59:49.000000Z",
+            "updated_at": "2023-08-29T08:59:49.000000Z",
+            "job_descs_count": 5,
+            "job_descs": [
+                {
+                    "id": 218,
+                    "position_id": 40,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan sesuai dengan            ketentua_n untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:59:49.000000Z",
+                    "updated_at": "2023-08-29T08:59:49.000000Z"
+                },
+                {
+                    "id": 219,
+                    "position_id": 40,
+                    "title": "Melakukan pengecekan jadwal kegiatan Pimpinan agar acara berjalan lancar;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:59:49.000000Z",
+                    "updated_at": "2023-08-29T08:59:49.000000Z"
+                },
+                {
+                    "id": 220,
+                    "position_id": 40,
+                    "title": "Melakukan koordinasi dengan instansi tewrkait sesuai dengan ketentuan            berlaku agar acar berjalan lancar.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:59:49.000000Z",
+                    "updated_at": "2023-08-29T08:59:49.000000Z"
+                },
+                {
+                    "id": 221,
+                    "position_id": 40,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan agar tugas             terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:59:49.000000Z",
+                    "updated_at": "2023-08-29T08:59:49.000000Z"
+                },
+                {
+                    "id": 222,
+                    "position_id": 40,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk mendapat  petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-29T08:59:49.000000Z",
+                    "updated_at": "2023-08-29T08:59:49.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "name": "1.1 Pengelola Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan  pengelolaan keuangan  sesuai  ketentuan  untuk  mendukung kelancaran tugas pokok Sub  Bagian Keuangan dan  Pengelolaan  Aset.",
+            "created_at": "2023-08-31T09:08:50.000000Z",
+            "updated_at": "2023-08-31T09:08:50.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 249,
+                    "position_id": 41,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan  sesuai  dengan ketentuan  untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 250,
+                    "position_id": 41,
+                    "title": "Melakukan   inventarisasi    dokumen   keuangan    sesuai   ketentuan     dan kebutuhan dalam rangka tertibnya administrasi keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 251,
+                    "position_id": 41,
+                    "title": "Melakukan pemeriksaan dokumen keuangan sesuai dengan ketentuan untuk menghindari terjadinya penyimpangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 252,
+                    "position_id": 41,
+                    "title": "Menyampaikan hasil pemeriksaan dokumen keuangan kepada atasan  untuk di tindak lanjuti;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 253,
+                    "position_id": 41,
+                    "title": "Merencanakan kegiatan administrasi  keuangan untuk mewujudkan kegiatan organisasi kerja untuk mencapai tujuan bersama yang telah ditentukan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 254,
+                    "position_id": 41,
+                    "title": "Melakukan koordinasi untuk  kelancaran  pengelolan kcuangan  agar  sesuai dengan program dan  kebijakan yang telah ditetapkan agar tercapai  sasaran sesuai dengan rcncana",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 255,
+                    "position_id": 41,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan  agar tugas terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                },
+                {
+                    "id": 256,
+                    "position_id": 41,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk  mendapat petunjuk sclanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:08:50.000000Z",
+                    "updated_at": "2023-08-31T09:08:50.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "name": "1.2 Verifikator Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pemeriksaan terhadap  kebenaran  dan   kelengkapan dokumen keuangan sesuai ketentuan untuk mendukung kelancaran tugas pokok Sub  Bagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-31T09:11:20.000000Z",
+            "updated_at": "2023-08-31T09:11:20.000000Z",
+            "job_descs_count": 12,
+            "job_descs": [
+                {
+                    "id": 257,
+                    "position_id": 42,
+                    "title": "Mempelajari tugas  dan   petunjuk kerja   yang diberikan atasan  sesuai dengan ketentuan  untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 258,
+                    "position_id": 42,
+                    "title": "Menerima   dokumen    keuangan    sesuai   masukan    unit    kerja    untuk ditindaklanjuti;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 259,
+                    "position_id": 42,
+                    "title": "Memeriksa kelengkapan dan kebenaran bahan sesuai dengan ketentuan  dalam rangka persetujuan penarikan dana;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 260,
+                    "position_id": 42,
+                    "title": "Menyampaikan   nota  persetujuan  berdasarkan  hasil  pemeriksaan  kepada Bendahara Pengeluaran untuk diproses selanjutnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 261,
+                    "position_id": 42,
+                    "title": "Mengumpulkan  data realisasi keuangan dan bukti-bukti pengeluaran sebagai kelengkapan SPJ perincian kegiatan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 262,
+                    "position_id": 42,
+                    "title": "Meneliti kelengkapan dan kebenaran dokumen konrtak",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 263,
+                    "position_id": 42,
+                    "title": "Melaksanakan konfirmasi data apabila terdapat ketidaksesuaian perhitungan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 264,
+                    "position_id": 42,
+                    "title": "Mencermati  kebenaran   penghitungan  keungan   dalam  rangka   verifikasi, evaluasi dan analisis atas laporan pertanggungjawaban",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 265,
+                    "position_id": 42,
+                    "title": "Menyusun  secara  kronologis serta  meneliti kelengkapan  bukti  pengeluaran pemeriksaan   kebenaran,   pencocokan,  dan    penghitungan   keungan  untuk bahan laporan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 266,
+                    "position_id": 42,
+                    "title": "Melaksanakan konfirmasi data dan  memfasilitasi kesempumaan  pelaksanaan pengadaan  barang  dan   jasa  apabila  terdapat   ketidaklengkapan dokumen kontrak",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 267,
+                    "position_id": 42,
+                    "title": "Melaksanakan  tugas  kedinasan  lainnya   yang   diberikan atasan  agar  tugas terbagi habis;  dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 268,
+                    "position_id": 42,
+                    "title": "Membuat laporan  hasil  pelaksanaan  tugas  kepada atasan  untuk mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "name": "1.2 Verifikator Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan pemeriksaan terhadap  kebenaran  dan   kelengkapan dokumen keuangan sesuai ketentuan untuk mendukung kelancaran tugas pokok Sub  Bagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-31T09:11:20.000000Z",
+            "updated_at": "2023-08-31T09:11:20.000000Z",
+            "job_descs_count": 12,
+            "job_descs": [
+                {
+                    "id": 269,
+                    "position_id": 43,
+                    "title": "Mempelajari tugas  dan   petunjuk kerja   yang diberikan atasan  sesuai dengan ketentuan  untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 270,
+                    "position_id": 43,
+                    "title": "Menerima   dokumen    keuangan    sesuai   masukan    unit    kerja    untuk ditindaklanjuti;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 271,
+                    "position_id": 43,
+                    "title": "Memeriksa kelengkapan dan kebenaran bahan sesuai dengan ketentuan  dalam rangka persetujuan penarikan dana;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 272,
+                    "position_id": 43,
+                    "title": "Menyampaikan   nota  persetujuan  berdasarkan  hasil  pemeriksaan  kepada Bendahara Pengeluaran untuk diproses selanjutnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 273,
+                    "position_id": 43,
+                    "title": "Mengumpulkan  data realisasi keuangan dan bukti-bukti pengeluaran sebagai kelengkapan SPJ perincian kegiatan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 274,
+                    "position_id": 43,
+                    "title": "Meneliti kelengkapan dan kebenaran dokumen konrtak",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 275,
+                    "position_id": 43,
+                    "title": "Melaksanakan konfirmasi data apabila terdapat ketidaksesuaian perhitungan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 276,
+                    "position_id": 43,
+                    "title": "Mencermati  kebenaran   penghitungan  keungan   dalam  rangka   verifikasi, evaluasi dan analisis atas laporan pertanggungjawaban",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 277,
+                    "position_id": 43,
+                    "title": "Menyusun  secara  kronologis serta  meneliti kelengkapan  bukti  pengeluaran pemeriksaan   kebenaran,   pencocokan,  dan    penghitungan   keungan  untuk bahan laporan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 278,
+                    "position_id": 43,
+                    "title": "Melaksanakan konfirmasi data dan  memfasilitasi kesempumaan  pelaksanaan pengadaan  barang  dan   jasa  apabila  terdapat   ketidaklengkapan dokumen kontrak",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 279,
+                    "position_id": 43,
+                    "title": "Melaksanakan  tugas  kedinasan  lainnya   yang   diberikan atasan  agar  tugas terbagi habis;  dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                },
+                {
+                    "id": 280,
+                    "position_id": 43,
+                    "title": "Membuat laporan  hasil  pelaksanaan  tugas  kepada atasan  untuk mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:11:20.000000Z",
+                    "updated_at": "2023-08-31T09:11:20.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Penyusun Laporan Keuangan",
+            "description": null,
+            "summary_tasks": "Melakukan proses penyusunan laporan keuangan sesuai dengan ketentuan  untuk  mendukung kelancaran tugas pokok Sub Bagian Keuangan dan Pengeloiaan Aset.",
+            "created_at": "2023-08-31T09:14:24.000000Z",
+            "updated_at": "2023-08-31T09:14:24.000000Z",
+            "job_descs_count": 6,
+            "job_descs": [
+                {
+                    "id": 281,
+                    "position_id": 44,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan  sesuai  dengan ketentuan  untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:14:24.000000Z",
+                    "updated_at": "2023-08-31T09:14:24.000000Z"
+                },
+                {
+                    "id": 282,
+                    "position_id": 44,
+                    "title": "Memilah bahan dokumen keuangan  sesuai dengan jenis dan sifatnya sebagai bahan penyusunan laporan keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:14:24.000000Z",
+                    "updated_at": "2023-08-31T09:14:24.000000Z"
+                },
+                {
+                    "id": 283,
+                    "position_id": 44,
+                    "title": "Membuat  laporan  keuangan  meliputi  laporan   realisasi  anggaran   sesuai dengan formulir yang telah ditentukan  sebagai bahan  pertanggungjawaban keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:14:24.000000Z",
+                    "updated_at": "2023-08-31T09:14:24.000000Z"
+                },
+                {
+                    "id": 284,
+                    "position_id": 44,
+                    "title": "Menyampaikan  laporan   keuangan   kepada   atasan    untuk     memenuhi permintaan pihak-pihak yang membutuhkan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:14:24.000000Z",
+                    "updated_at": "2023-08-31T09:14:24.000000Z"
+                },
+                {
+                    "id": 285,
+                    "position_id": 44,
+                    "title": "Melaksanakan tugas kedinasan lainnya sesuai instruksi atasan  agar tugas terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:14:24.000000Z",
+                    "updated_at": "2023-08-31T09:14:24.000000Z"
+                },
+                {
+                    "id": 286,
+                    "position_id": 44,
+                    "title": "Membuat laporan hasil pelaksanaan tugas kepada atasan untuk  mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:14:24.000000Z",
+                    "updated_at": "2023-08-31T09:14:24.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Bendahara",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan  penerimaan,  penyimpanan  dan  pengeluaran  uang baik yang bersumber dari APBA dan APBN sesuai ketentuan yang berlaku untuk mendukung kelancaran tugas pokok Subbagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-31T09:17:09.000000Z",
+            "updated_at": "2023-08-31T09:17:09.000000Z",
+            "job_descs_count": 12,
+            "job_descs": [
+                {
+                    "id": 287,
+                    "position_id": 45,
+                    "title": "Mempelajari tugas dan petunjuk kerja yang diberikan atasan  sesuai dengan ketentuan untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 288,
+                    "position_id": 45,
+                    "title": "Melakukan  pencatatan   anggaran   sesuai  dengan   Dokumen  Pelaksanaan Anggaran (DPA) dalam rangka pengendalian anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 289,
+                    "position_id": 45,
+                    "title": "Membuat dan  mengajukan surat  perintah pembayaran  (SPP)   baik  beban tetap maupun beban sementara dalam rangka realisasi anggaran;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 290,
+                    "position_id": 45,
+                    "title": "Membayar  setiap  permintaan  pembayaran\/tagihan  yang  telah  memenuhi persyaratan untuk kelancaran pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 291,
+                    "position_id": 45,
+                    "title": "Melaksanakan  pembukuan keuangan anggaran langsung dan tidak langsung sesuai ketentuan yang berlaku untuk tertibnya administrasi pembukuan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 292,
+                    "position_id": 45,
+                    "title": "Melakukan pemotongan atas   perhitungan  pajak   sesuai  ketentuan  yang berlaku untuk disetorkan ke  Kas  Negara;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 293,
+                    "position_id": 45,
+                    "title": "Mencatat dan menyusun penerimaan dan pengeluaran uang didalam formulir daftar  penerimaan dan pengeluaran yang telah ditetapkan sesuai prosedur yang berlaku;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 294,
+                    "position_id": 45,
+                    "title": "Melayani    permintaan  uang  muka   berdasarkan   surat   perintah   untuk kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 295,
+                    "position_id": 45,
+                    "title": "Mengajukan  surat  perintah  pembayaran ke   KPPN   dan  BKA  berdasarkan surat perintah untuk mengurus keuangan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 296,
+                    "position_id": 45,
+                    "title": "Melakukan pembayaran atas tagihan-tagihan berdasarkan surat  dinas untuk kelancaran pelaksanaan tugas;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 297,
+                    "position_id": 45,
+                    "title": "Melaksanakan tugas  kedinasan lainnya  sesuai instruksi atasan  agar tugas terbagi habis; dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                },
+                {
+                    "id": 298,
+                    "position_id": 45,
+                    "title": "Membuat laporan hasil pelaksanaan  tugas kepada atasan  untuk  mendapat petunjuk selanjutnya.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:17:09.000000Z",
+                    "updated_at": "2023-08-31T09:17:09.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "name": "Penyusun lnventaris Kebutuhan Barang",
+            "description": null,
+            "summary_tasks": "Melakukan kegiatan  penerimaan,  pengumpulan, pengklasifikasian  dan penelahaan data   objek  kerja  di   bidang  kebutuhan  barang  inventaris  untuk   mendukung kelancaran  tugas pokok Sub Bagian Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-31T09:19:19.000000Z",
+            "updated_at": "2023-08-31T09:19:19.000000Z",
+            "job_descs_count": 8,
+            "job_descs": [
+                {
+                    "id": 299,
+                    "position_id": 46,
+                    "title": "Mempelajari tugas  dan  petunjuk kerja yang diberikan  atasan  sesuai dengan ketentuan  untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 300,
+                    "position_id": 46,
+                    "title": "Mengumpulkan data  melalui laporan  sesuai dengan prosedur dan  ketentuan yang berlaku agar tertib administrasi;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 301,
+                    "position_id": 46,
+                    "title": "Mencatat dan menjumlah jenis dan nama data laporan kedalam media tertentu sesuai dengan prosedur dan ketentuan yang berlaku agar mengetahui kondisi yang sebenarnya;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 302,
+                    "position_id": 46,
+                    "title": "Membuat daftar  inventaris menurut jenis merek tahun pembuatan, pembelian, dan nomor kode dengan menggunakan sarana sesuai ketentuan yang berlaku agar mudah ditemukan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 303,
+                    "position_id": 46,
+                    "title": "Membuat  susunan   nomor  dan  kode  inventaris  agar  dapat   memudahkan pengecekan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 304,
+                    "position_id": 46,
+                    "title": "Menyusun laporan triwulan dan laporan tahunan  sesuai dengan prosedur dan ketentuan yang berlaku agar tidak terjadi kesalahan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 305,
+                    "position_id": 46,
+                    "title": "Melaksanakan tugas kedinasan lain yang diperintahkan  pimpinan baik tertulis maupun lisan;  dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                },
+                {
+                    "id": 306,
+                    "position_id": 46,
+                    "title": "Melaporkan hasil  pelaksanaan  tugas  sesuai  dengan  prosedur yang  berlaku sebagai bahan evaluasi dan pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:19:19.000000Z",
+                    "updated_at": "2023-08-31T09:19:19.000000Z"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Pengelola  Kendaraan Dinas",
+            "description": null,
+            "summary_tasks": "Melakukan  pengelolaan kenderaan  dinas  dan   membuat laporan kenderaan  dinas sertya mengajukan rencana  operasional biaya kenderaan  berdasarkan  ketentuan yang berlaku untuk mendukung kelancaran tugas pokok  Sub  Bagian  Keuangan dan Pengelolaan Aset.",
+            "created_at": "2023-08-31T09:21:03.000000Z",
+            "updated_at": "2023-08-31T09:21:03.000000Z",
+            "job_descs_count": 7,
+            "job_descs": [
+                {
+                    "id": 307,
+                    "position_id": 47,
+                    "title": "Mempelajari tugas  dan   petunjuk kerja  yang   diberikan atasan  sesuai dengan ketentuan   untuk menghindari kesalahan dalam pelaksanaan kegiatan;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                },
+                {
+                    "id": 308,
+                    "position_id": 47,
+                    "title": "Bertanggung  jawab   dibidang  pengelolaan  kenderaan  dinas  sesuai   dengan ketentuan yang  berlaku;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                },
+                {
+                    "id": 309,
+                    "position_id": 47,
+                    "title": "Membuat laporan kenderaan  dinas sesuai   dengan perjalanan  yang   ditempuh guna perawatan secara berkala ;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                },
+                {
+                    "id": 310,
+                    "position_id": 47,
+                    "title": "Mengajukan   rencana   operasional  biaya   kenderaan   dinas   sesuai   dengan prosedur dan  ketentuan yang  berlaku;",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                },
+                {
+                    "id": 311,
+                    "position_id": 47,
+                    "title": "Mengawasi\/mengecek kenderaan  dinas   agar   siap pakai untuk kegiatan tugas kantor.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                },
+                {
+                    "id": 312,
+                    "position_id": 47,
+                    "title": "Melaksanakan tugas kedinasan lain  yang  diperintahkan pimpinan baik  tertulis maupun lisan;  dan",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                },
+                {
+                    "id": 313,
+                    "position_id": 47,
+                    "title": "Melaporkan  hasil   pelaksanaan  tugas  sesuai   dengan  prosedur  yang   berlaku sebagai bahan evaluasi dan  pertanggungjawaban.",
+                    "description": null,
+                    "active": 1,
+                    "created_at": "2023-08-31T09:21:03.000000Z",
+                    "updated_at": "2023-08-31T09:21:03.000000Z"
+                }
+            ]
+        }
+    ],
+    "links": {
+        "first": "https:\/\/peterkin.bungker.co.id\/api\/position?page=1",
+        "last": "https:\/\/peterkin.bungker.co.id\/api\/position?page=1",
+        "prev": null,
+        "next": null
+    },
+    "meta": {
+        "current_page": 1,
+        "from": 1,
+        "last_page": 1,
+        "links": [
+            {
+                "url": null,
+                "label": "&laquo; Previous",
+                "active": false
+            },
+            {
+                "url": "https:\/\/peterkin.bungker.co.id\/api\/position?page=1",
+                "label": "1",
+                "active": true
+            },
+            {
+                "url": null,
+                "label": "Next &raquo;",
+                "active": false
+            }
+        ],
+        "path": "https:\/\/peterkin.bungker.co.id\/api\/position",
+        "per_page": 200,
+        "to": 45,
+        "total": 45
+    },
+    "field": [
+        {
+            "name": "name",
+            "label": "team.field.name"
+        },
+        {
+            "key": "owner",
+            "label": "team.field.owner"
+        }
+    ]
+}

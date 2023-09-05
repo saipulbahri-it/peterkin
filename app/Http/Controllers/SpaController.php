@@ -26,9 +26,10 @@ class SpaController extends Controller
     {
         if ($request->user()) {
             return redirect()->intended(
-                config('app.frontend_url') . RouteServiceProvider::HOME
+                config('app.frontend_url').RouteServiceProvider::HOME
             );
         }
+
         return view('auth');
     }
 

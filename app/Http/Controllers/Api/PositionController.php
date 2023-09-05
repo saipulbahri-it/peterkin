@@ -23,7 +23,7 @@ class PositionController extends Controller
     {
         $items = Position::withCount('jobDescs')->get();
 
-        $items->load("jobDescs");
+        $items->load('jobDescs');
 
         return JsonResource::collection($items);
     }
@@ -37,25 +37,24 @@ class PositionController extends Controller
     {
         $items = Position::withCount('jobDescs')->paginate($this->perPage);
 
-        $items->load("jobDescs");
+        $items->load('jobDescs');
 
         return JsonResource::collection($items)->additional([
-            'field' => array(
+            'field' => [
                 [
                     'name' => 'name',
-                    'label' => trans('team.field.name')
+                    'label' => trans('team.field.name'),
                 ], [
                     'key' => 'owner',
                     'label' => trans('team.field.owner'),
-                ]
-            )
+                ],
+            ],
         ]);
     }
 
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StorePositionRequest  $request
      * @return \Illuminate\Http\Response
      */
     public function store(StorePositionRequest $request)
@@ -64,7 +63,7 @@ class PositionController extends Controller
         $position = Position::create($request->all());
 
         if ($request->has('job_descs')) {
-            $newJobDescs = collect($request->job_descs)->whereNotNull("title")->map(function ($item) {
+            $newJobDescs = collect($request->job_descs)->whereNotNull('title')->map(function ($item) {
                 return new JobDesc($item);
             });
 
@@ -88,15 +87,13 @@ class PositionController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdatePositionRequest  $request
-     * @param  \App\Models\Position  $position
      * @return \Illuminate\Http\Response
      */
     public function update(UpdatePositionRequest $request, Position $position)
     {
         if ($request->has('job_descs')) {
             foreach (collect($request->input('job_descs'))->whereNotNull('title') as $jobdesc) {
-                $position->jobDescs()->updateOrCreate(["id" => @$jobdesc["id"]], $jobdesc);
+                $position->jobDescs()->updateOrCreate(['id' => @$jobdesc['id']], $jobdesc);
             }
         }
 
@@ -106,7 +103,6 @@ class PositionController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Position  $position
      * @return \Illuminate\Http\Response
      */
     public function destroy(Position $position)

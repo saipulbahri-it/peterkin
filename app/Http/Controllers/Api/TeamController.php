@@ -20,9 +20,9 @@ class TeamController extends Controller
     {
         $items = Team::withCount('users')->get();
 
-        $items->load("owner");
-        $items->load("invites");
-        $items->load("users");
+        $items->load('owner');
+        $items->load('invites');
+        $items->load('users');
 
         return JsonResource::collection($items);
     }
@@ -36,20 +36,20 @@ class TeamController extends Controller
     {
         $items = Team::withCount('users')->paginate($this->perPage);
 
-        $items->load("owner");
-        $items->load("invites");
-        $items->load("users");
+        $items->load('owner');
+        $items->load('invites');
+        $items->load('users');
 
         return JsonResource::collection($items)->additional([
-            'field' => array(
+            'field' => [
                 [
                     'name' => 'name',
-                    'label' => trans('team.field.name')
+                    'label' => trans('team.field.name'),
                 ], [
                     'key' => 'owner',
                     'label' => trans('team.field.owner'),
-                ]
-            )
+                ],
+            ],
         ]);
     }
 
@@ -71,8 +71,9 @@ class TeamController extends Controller
      */
     public function show($id)
     {
-        $team = Team::with(['users.currentPosition','users.tasks'])->findOrFail($id);
+        $team = Team::with(['owner', 'users.currentPosition', 'users.tasks'])->findOrFail($id);
         $team->load('userTask');
+
         return $team;
     }
 

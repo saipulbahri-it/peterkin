@@ -24,10 +24,10 @@ class UserController extends Controller
      */
     public function index()
     {
-        $items = User::with("teams", "currentTeam", "currentPosition")->paginate($this->perPage);
+        $items = User::with('teams', 'currentTeam', 'currentPosition')->paginate($this->perPage);
 
         return JsonResource::collection($items)->additional([
-            'field' => array(
+            'field' => [
                 [
                     'key' => 'name',
                     'label' => trans('user.field.name'),
@@ -40,8 +40,8 @@ class UserController extends Controller
                 ], [
                     'key' => 'position',
                     'label' => trans('user.field.position'),
-                ]
-            )
+                ],
+            ],
         ]);
     }
 
@@ -62,7 +62,11 @@ class UserController extends Controller
      */
     public function show($id)
     {
-        $user = User::with(['currentTeam', 'currentPosition'])->findOrFail($id);
+        $user = User::with(['currentPosition', 'currentTeam', 'teams'])->findOrFail($id);
+        $user->currentTeam?->makeHidden(['created_at', 'updated_at']);
+        $user->currentPosition?->makeHidden(['created_at', 'updated_at']);
+        $user->teams?->makeHidden(['pivot', 'created_at', 'updated_at']);
+        $user->ownedTeams?->makeHidden(['pivot', 'created_at', 'updated_at']);
 
         return $user;
     }
@@ -75,6 +79,12 @@ class UserController extends Controller
     public function update(UpdateUserRequest $request, User $user)
     {
         $user->update($request->all());
+
+        if ($request->current_team_id) {
+            // $user->teams()->detach($request->current_team_id);
+            // $user->teams()->attach($request->current_team_id);
+            $user->switchTeam($request->current_team_id);
+        }
 
         return $user;
     }

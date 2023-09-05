@@ -8,5 +8,5 @@ return [
         'class' => 'Gol',
         'username' => 'Username',
         'email' => 'Email',
-    ]
+    ],
 ];

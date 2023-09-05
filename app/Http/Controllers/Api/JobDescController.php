@@ -22,7 +22,6 @@ class JobDescController extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StoreJobDescRequest  $request
      * @return \Illuminate\Http\Response
      */
     public function store(StoreJobDescRequest $request)
@@ -33,7 +32,6 @@ class JobDescController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\JobDesc  $jobDesc
      * @return \Illuminate\Http\Response
      */
     public function show(JobDesc $jobDesc)
@@ -44,8 +42,6 @@ class JobDescController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdateJobDescRequest  $request
-     * @param  \App\Models\JobDesc  $jobDesc
      * @return \Illuminate\Http\Response
      */
     public function update(UpdateJobDescRequest $request, JobDesc $jobDesc)
@@ -62,6 +58,7 @@ class JobDescController extends Controller
     public function destroy($id)
     {
         $jobDesc = JobDesc::findOrFail($id);
+
         return $jobDesc->delete();
     }
 }

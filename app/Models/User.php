@@ -2,8 +2,6 @@
 
 namespace App\Models;
 
-use App\Models\Position;
-use App\Models\Task;
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
@@ -13,7 +11,24 @@ use Mpociot\Teamwork\Traits\UserHasTeams;
 
 class User extends Authenticatable
 {
-    use UserHasTeams, HasApiTokens, HasFactory, Notifiable;
+    use HasApiTokens, HasFactory, Notifiable;
+
+    /**
+     * This will enable the relation with Team and add the following methods :
+     * teams(),
+     * ownedTeams(),
+     * currentTeam(),
+     * invites(),
+     * isTeamOwner(),
+     * isOwnerOfTeam($team),
+     * attachTeam($team, $pivotData = []),
+     * detachTeam($team),
+     * attachTeams($teams),
+     * detachTeams($teams),
+     * switchTeam($team)
+     * within your User model.
+     */
+    use UserHasTeams;
 
     /**
      * The attributes that are mass assignable.
@@ -36,6 +51,7 @@ class User extends Authenticatable
     protected $hidden = [
         'password',
         'remember_token',
+        'pivot',
     ];
 
     /**
@@ -47,6 +63,10 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 
+    public function scopeExclude($query, $value = [])
+    {
+        return $query->select(array_diff($this->columns, (array) $value));
+    }
 
     public function tasks()
     {
@@ -55,6 +75,6 @@ class User extends Authenticatable
 
     public function currentPosition()
     {
-        return $this->hasOne(Position::class,'id','position_id');
+        return $this->hasOne(Position::class, 'id', 'position_id');
     }
 }

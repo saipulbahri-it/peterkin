@@ -9,6 +9,7 @@ class Team extends TeamworkTeam
 {
     use HasFactory;
 
+    protected $hidden = ['pivot'];
 
     public function userTask()
     {

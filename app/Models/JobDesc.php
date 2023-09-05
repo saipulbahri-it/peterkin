@@ -11,6 +11,6 @@ class JobDesc extends Model
 
     protected $fillable = [
         'title',
-        'description'
+        'description',
     ];
 }

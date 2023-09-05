@@ -15,8 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-
-
 Route::post('/register', [\App\Http\Controllers\Api\AuthController::class, 'register']);
 Route::post('/login', [\App\Http\Controllers\Api\AuthController::class, 'login']);
 
@@ -25,7 +23,15 @@ Route::middleware('auth:sanctum')->group(function () {
 });
 
 Route::middleware(['auth:sanctum'])->get('/user', function (Request $request) {
-    return User::with('currentTeam', 'currentPosition')->findOrFail($request->user()->id);
+    // dd($request->user()->isTeamOwner);
+    $user = User::with('currentPosition', 'currentTeam', 'teams')->findOrFail($request->user()->id);
+    $user->currentPosition?->makeHidden(['created_at', 'updated_at']);
+    $user->currentTeam?->makeHidden(['created_at', 'updated_at']);
+    $user->teams?->makeHidden(['pivot', 'created_at', 'updated_at']);
+    $user->ownedTeams?->makeHidden(['pivot', 'created_at', 'updated_at']);
+    $user->isTeamOwner = $user->isTeamOwner() ?? false;
+
+    return $user;
 });
 
 Route::middleware('auth:sanctum')->group(function () {
@@ -39,7 +45,7 @@ Route::middleware('auth:sanctum')->group(function () {
             'task' => 'App\Http\Controllers\Api\TaskController',
         ]
     );
-    Route::get('positions', [App\Http\Controllers\Api\PositionController::class, "all"]);
-    Route::get('teams', [App\Http\Controllers\Api\TeamController::class, "all"]);
-    Route::post('task/{id}/setStatus', [App\Http\Controllers\Api\TaskController::class, "setStatus"]);
+    Route::get('positions', [App\Http\Controllers\Api\PositionController::class, 'all']);
+    Route::get('teams', [App\Http\Controllers\Api\TeamController::class, 'all']);
+    Route::post('task/{id}/setStatus', [App\Http\Controllers\Api\TaskController::class, 'setStatus']);
 });

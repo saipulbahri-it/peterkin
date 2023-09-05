@@ -25,18 +25,18 @@ class TaskController extends Controller
     {
         $items = Task::where('user_id', auth()->user()->id)->paginate($this->perPage);
 
-        $items->load("jobDesc");
+        $items->load('jobDesc');
 
         return JsonResource::collection($items)->additional([
-            'field' => array(
+            'field' => [
                 [
                     'name' => 'name',
-                    'label' => trans('team.field.name')
+                    'label' => trans('team.field.name'),
                 ], [
                     'key' => 'owner',
                     'label' => trans('team.field.owner'),
-                ]
-            )
+                ],
+            ],
         ]);
 
         return JsonResource::collection($items);
@@ -49,7 +49,7 @@ class TaskController extends Controller
      */
     public function store(Request $request)
     {
-        return  $request->user()->tasks()->create($request->all());
+        return $request->user()->tasks()->create($request->all());
     }
 
     /**
@@ -79,14 +79,13 @@ class TaskController extends Controller
     public function setStatus(Request $request, $id)
     {
         $task = Task::findOrFail($id);
-        if($request->task_status){
+        if ($request->task_status) {
             $task->task_status = $request->task_status;
             $task->save();
         }
 
         return $task;
     }
-
 
     /**
      * Remove the specified resource from storage.

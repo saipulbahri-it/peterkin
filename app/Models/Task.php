@@ -5,7 +5,6 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Mpociot\Teamwork\Traits\UsedByTeams;
-use App\Models\JobDesc;
 
 class Task extends Model
 {

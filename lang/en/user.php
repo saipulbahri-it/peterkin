@@ -8,5 +8,5 @@ return [
         'class' => 'Class',
         'username' => 'Username',
         'email' => 'Email',
-    ]
+    ],
 ];
