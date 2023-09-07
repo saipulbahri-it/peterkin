@@ -49,4 +49,6 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::get('teams', [App\Http\Controllers\Api\TeamController::class, 'all']);
     Route::post('task/{id}/setStatus', [App\Http\Controllers\Api\TaskController::class, 'setStatus']);
     // user/owned-teams
+    Route::get('teamwork/owned-teams/member', [App\Http\Controllers\Api\TeamWorkController::class, 'memberOfOwnedTeams']);
+
 });

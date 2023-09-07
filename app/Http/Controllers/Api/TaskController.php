@@ -23,7 +23,7 @@ class TaskController extends Controller
      */
     public function index()
     {
-        $items = Task::where('user_id', auth()->user()->id)->orderBy('id','DESC')->paginate($this->perPage);
+        $items = Task::with(["assignedTo", "assignedBy"])->where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->paginate($this->perPage);
 
         $items->load('jobDesc');
 
@@ -49,7 +49,17 @@ class TaskController extends Controller
      */
     public function store(Request $request)
     {
-        return $request->user()->tasks()->create($request->all());
+        // assigned_to
+        // assigned_by
+        $data = $request->all();
+
+        if (!$request->assigned_to) {
+            $data['assigned_to'] = auth()->user()->id;
+        }
+
+        $data['assigned_by'] = auth()->user()->id;
+
+        return $request->user()->tasks()->create($data);
     }
 
     /**
