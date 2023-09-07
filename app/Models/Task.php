@@ -15,6 +15,7 @@ class Task extends Model
         'description',
         'job_desc_id',
         'task_source',
+        'assigned_to'
     ];
 
     public function jobDesc()

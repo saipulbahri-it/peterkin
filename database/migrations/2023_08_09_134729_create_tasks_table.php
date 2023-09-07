@@ -28,7 +28,7 @@ return new class extends Migration
             $table->date('due_date')->nullable();
             $table->time('due_clock')->nullable();
             $table->boolean('is_primary')->default('0');
-            $table->boolean('compleated')->default('0');
+            $table->boolean('complete')->default('0');
             $table->string('title', 1000);
             $table->string('description', 1000)->nullable();
             $table->string('task_status')->default('To-Do');

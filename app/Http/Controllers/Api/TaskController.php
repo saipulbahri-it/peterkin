@@ -23,7 +23,7 @@ class TaskController extends Controller
      */
     public function index()
     {
-        $items = Task::where('user_id', auth()->user()->id)->paginate($this->perPage);
+        $items = Task::where('user_id', auth()->user()->id)->orderBy('id','DESC')->paginate($this->perPage);
 
         $items->load('jobDesc');
 
