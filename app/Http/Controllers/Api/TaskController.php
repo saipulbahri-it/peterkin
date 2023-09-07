@@ -23,7 +23,10 @@ class TaskController extends Controller
      */
     public function index()
     {
-        $items = Task::with(["assignedTo", "assignedBy"])->where('user_id', auth()->user()->id)->orderBy('id', 'DESC')->paginate($this->perPage);
+        $items = Task::with(["assignedTo", "assignedBy"])
+            ->where('user_id', auth()->user()->id)
+            ->orWhere('assigned_to', auth()->user()->id)
+            ->orderBy('id', 'DESC')->paginate($this->perPage);
 
         $items->load('jobDesc');
 

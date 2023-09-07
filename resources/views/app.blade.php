@@ -16,7 +16,7 @@
     <!-- Font Awesome Icons -->
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     
-    <script type="module" crossorigin src="/ui/js/app-a891ac60.js"></script>
+    <script type="module" crossorigin src="/ui/js/app-e10d30d3.js"></script>
     <link rel="modulepreload" crossorigin href="/ui/js/index_953b622b.js">
     <link rel="stylesheet" href="/ui/css/index-afbe1a1f.css">
     <link rel="stylesheet" href="/ui/css/index-4d16bbe9.css">

@@ -8,7 +8,8 @@ use Mpociot\Teamwork\Traits\UsedByTeams;
 
 class Task extends Model
 {
-    use HasFactory, UsedByTeams;
+    use HasFactory;
+    // use UsedByTeams;
 
     protected $fillable = [
         'title',
