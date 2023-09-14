@@ -16,11 +16,11 @@
     <!-- Font Awesome Icons -->
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     
-    <script type="module" crossorigin src="/ui/js/auth-110d3bca.js"></script>
+    <script type="module" crossorigin src="/ui/js/auth-11a59d93.js"></script>
     <link rel="modulepreload" crossorigin href="/ui/js/index_953b622b.js">
     <link rel="modulepreload" crossorigin href="/ui/js/index_26948b71.js">
     <link rel="stylesheet" href="/ui/css/index-afbe1a1f.css">
-    <link rel="stylesheet" href="/ui/css/auth-8a30fb5b.css">
+    <link rel="stylesheet" href="/ui/css/auth-f72507af.css">
   </head>
   <body id="app">
     
