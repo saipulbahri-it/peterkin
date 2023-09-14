@@ -21,7 +21,7 @@ class PositionController extends Controller
 
     public function all()
     {
-        $items = Position::withCount('jobDescs')->get();
+        $items = Position::withCount('jobDescs')->orderBy('name','ASC')->get();
 
         $items->load('jobDescs');
 
@@ -35,7 +35,7 @@ class PositionController extends Controller
      */
     public function index()
     {
-        $items = Position::withCount('jobDescs')->paginate($this->perPage);
+        $items = Position::withCount('jobDescs')->orderBy('name','ASC')->paginate($this->perPage);
 
         $items->load('jobDescs');
 
